@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CHICKEN_FINGERS.props" />
+</Project>

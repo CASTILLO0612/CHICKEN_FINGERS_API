@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHICKEN_FINGERS", "CHICKEN_FINGERS\CHICKEN_FINGERS.csproj", "{995101AA-AD6B-4496-9368-BC494314775E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHICKEN_FINGERS_APP", "CHICKEN_FINGERS_APP\CHICKEN_FINGERS_APP.csproj", "{2C52485D-8176-40E0-B219-17ACDE9D08F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{995101AA-AD6B-4496-9368-BC494314775E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995101AA-AD6B-4496-9368-BC494314775E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995101AA-AD6B-4496-9368-BC494314775E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995101AA-AD6B-4496-9368-BC494314775E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C52485D-8176-40E0-B219-17ACDE9D08F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C52485D-8176-40E0-B219-17ACDE9D08F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C52485D-8176-40E0-B219-17ACDE9D08F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C52485D-8176-40E0-B219-17ACDE9D08F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
