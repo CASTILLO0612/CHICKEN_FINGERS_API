@@ -1,7 +1,6 @@
 ﻿using AutoMapper;
 using CHICKEN_FINGERS.Dto;
 using CHICKEN_FINGERS.Models;
-using System.Formats.Tar;
 
 namespace CHICKEN_FINGERS
 {
@@ -12,14 +11,24 @@ namespace CHICKEN_FINGERS
             CreateMap<Cliente, ClienteDto>().ReverseMap();
             CreateMap<Cliente, ClienteCreateDto>().ReverseMap();
             CreateMap<Cliente, ClienteUpdateDto>().ReverseMap();
+            CreateMap<Pedido, PedidoDto>().ReverseMap();
+            CreateMap<Pedido, PedidoCreateDto>().ReverseMap();
+            CreateMap<Pedido, PedidoUpdateDto>().ReverseMap();
+            CreateMap<Producto, ProductoDto>().ReverseMap();
+            CreateMap<Producto, ProductoCreateDto>().ReverseMap();
+            CreateMap<Producto, ProductoUpdateDto>().ReverseMap();
+            CreateMap<MetodoPago, MetodoPagoDto>().ReverseMap();
+            CreateMap<MetodoPago, MetodoPagoCreateDto>().ReverseMap();
+            CreateMap<MetodoPago, MetodoPagoUpdateDto>().ReverseMap();
             CreateMap<PedidoDetalle, PedidoDetalleDto>().ReverseMap();
             CreateMap<PedidoDetalle, PedidoDetalleCreateDto>().ReverseMap();
-            CreateMap<PedidoDetalle, PedidoDetalleEliminarDto>().ReverseMap();
+            CreateMap<TarjetaPunto, TarjetaPuntoDto>().ReverseMap();
+            CreateMap<TarjetaPunto, TarjetaPuntoCreateDto>().ReverseMap();
             CreateMap<Categoria, CategoriaDto>().ReverseMap();
             CreateMap<Categoria, CategoriaCreateDto>().ReverseMap();
             CreateMap<Categoria, CategoriaUpdateDto>().ReverseMap();
-            CreateMap<TarjetaPunto, TarjetaPuntoDto>().ReverseMap();
-            CreateMap<TarjetaPunto, TarjetaPuntoCreateDto>().ReverseMap();
+            CreateMap<PedidoMetodoPago, PedidoMetodoPagoDto>().ReverseMap();
+            CreateMap<PedidoMetodoPago, PedidoMetodoPagoCreateDto>().ReverseMap();
         }
     }
 }

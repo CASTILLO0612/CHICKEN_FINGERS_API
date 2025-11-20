@@ -64,7 +64,7 @@ namespace CHICKEN_FINGERS.Controllers
                 return Ok(_mapper.Map<ClienteDto>(cliente));
             }
 
-            [Authorize(Roles = "Vendedor,Gerente")]
+            [Authorize(Roles = "Gerente")]
             [HttpPost]
             [ProducesResponseType(StatusCodes.Status201Created)]
             [ProducesResponseType(StatusCodes.Status400BadRequest)]
@@ -88,6 +88,7 @@ namespace CHICKEN_FINGERS.Controllers
                     _logger.LogWarning("Error al crear cliente: {Error}", error);
                     return BadRequest(new { error });
                 }
+
                 var clienteDto = _mapper.Map<ClienteDto>(cliente);
 
                 _logger.LogInformation("Cliente creado exitosamente con ID: {Id}", cliente.IdCliente);
