@@ -31,12 +31,13 @@ namespace CHICKEN_FINGERS.DAO
                     Direccion = reader["Direccion"] == DBNull.Value ? null : reader["Direccion"].ToString(),
                     Telefono = reader["Telefono"] == DBNull.Value ? null : reader["telefono"].ToString(),
                     Cedula = reader["Cedula"].ToString() ?? "",
-                    Estado = reader["Estado"].ToString() ?? "",
-                    Fecha_Registro = reader["Fecha_Registro"] == DBNull.Value ? null : Convert.ToDateTime(reader["Fecha_Registro"])
-
+                    Estado = reader["Estado"].ToString() ?? ""
                 };
+                if (reader.GetSchemaTable()?.Columns.Contains("Fecha_Registro") == true && reader["Fecha_Registro"] != DBNull.Value)
+                    c.Fecha_Registro = Convert.ToDateTime(reader["Fecha_Registro"]);
                 lista.Add(c);
             }
+
             return lista;
         }
 
@@ -61,10 +62,12 @@ namespace CHICKEN_FINGERS.DAO
                     Direccion = reader["Direccion"] == DBNull.Value ? null : reader["Direccion"].ToString(),
                     Telefono = reader["Telefono"] == DBNull.Value ? null : reader["Telefono"].ToString(),
                     Cedula = reader["Cedula"].ToString() ?? "",
-                    Estado = reader["Estado"].ToString() ?? "",
-                    Fecha_Registro = reader["Fecha_Registro"] == DBNull.Value ? null : Convert.ToDateTime(reader["Fecha_Registro"])
-
+                    Estado = reader["Estado"].ToString() ?? ""
                 };
+
+                if (reader.GetSchemaTable()?.Columns.Contains("Fecha_Registro") == true && reader["Fecha_Registro"] != DBNull.Value)
+                    cliente.Fecha_Registro = Convert.ToDateTime(reader["Fecha_Registro"]);
+
                 return cliente;
             }
 
@@ -84,12 +87,7 @@ namespace CHICKEN_FINGERS.DAO
             cmd.Parameters.AddWithValue("@Segundo_Apellido", (object?)c.SApellido ?? DBNull.Value);
             cmd.Parameters.AddWithValue("@Direccion", (object?)c.Direccion ?? DBNull.Value);
             cmd.Parameters.AddWithValue("@Telefono", (object?)c.Telefono ?? DBNull.Value);
-            cmd.Parameters.AddWithValue("@Estado", c.Estado);
             cmd.Parameters.AddWithValue("@Cedula", c.Cedula);
-
-            c.Fecha_Registro ??= DateTime.Now;
-            cmd.Parameters.AddWithValue("@Fecha_Registro", c.Fecha_Registro);
-
 
             // Si tu stored procedure devuelve el ID nuevo, usa ExecuteScalarAsync
             var result = await cmd.ExecuteScalarAsync();
@@ -112,12 +110,11 @@ namespace CHICKEN_FINGERS.DAO
 
             cmd.Parameters.AddWithValue("@Id_cliente", c.IdCliente);
             cmd.Parameters.AddWithValue("@Primer_nombre", c.PNombre);
-            cmd.Parameters.AddWithValue("@Segundo_nombre", (object?)c.SNombre ?? DBNull.Value);
+            cmd.Parameters.AddWithValue("@Segund_nombre", (object?)c.SNombre ?? DBNull.Value);
             cmd.Parameters.AddWithValue("@Primer_apellido", c.PApellido);
             cmd.Parameters.AddWithValue("@Segundo_apellido", (object?)c.SApellido ?? DBNull.Value);
-            cmd.Parameters.AddWithValue("@Direccion", (object?)c.Direccion ?? DBNull.Value);
-            cmd.Parameters.AddWithValue("@Telefono", (object?)c.Telefono ?? DBNull.Value);
-            cmd.Parameters.AddWithValue("Estado", c.Estado);
+            cmd.Parameters.AddWithValue("@direccion", (object?)c.Direccion ?? DBNull.Value);
+            cmd.Parameters.AddWithValue("@telefono", (object?)c.Telefono ?? DBNull.Value);
             cmd.Parameters.AddWithValue("@cedula", c.Cedula);
 
             var result = await cmd.ExecuteScalarAsync();

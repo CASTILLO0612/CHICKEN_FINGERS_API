@@ -28,6 +28,6 @@ namespace CHICKEN_FINGERS.Models
         [Required, StringLength(100), NotNull]
         public string Estado { get; set; }
 
-        public DateTime? Fecha_Registro { get; set; }
+        public DateTime Fecha_Registro { get; set; } = DateTime.UtcNow;
     }
 }

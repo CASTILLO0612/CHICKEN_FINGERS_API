@@ -38,25 +38,35 @@ builder.Services.AddAuthentication(options =>
 builder.Services.AddSingleton<ConexionDB>();
 builder.Services.AddScoped<UsuarioDAO>();
 builder.Services.AddScoped<ClienteDAO>();
+builder.Services.AddScoped<PedidoDAO>();
+builder.Services.AddScoped<ProductoDAO>();
+builder.Services.AddScoped<MetodoPagoDAO>();
+builder.Services.AddScoped<TarjetaPuntoDAO>();
 builder.Services.AddScoped<CategoriaDAO>();
 builder.Services.AddScoped<PedidoDetalleDAO>();
-builder.Services.AddScoped<TarjetaPuntoDAO>();
+builder.Services.AddScoped<PedidoMetodoPagoDAO>();
 
 builder.Services.AddScoped<ClienteService>();
-builder.Services.AddScoped<CategoriaService>();
-builder.Services.AddScoped<TarjetaPuntoService>();
 builder.Services.AddScoped<JwtService>();
 
 
 builder.Services.AddScoped<IRepository<Cliente>, ClienteDAO>();
-builder.Services.AddScoped<IRepository<Categoria>, CategoriaDAO>();
-builder.Services.AddScoped<IRepository<TarjetaPunto>, TarjetaPuntoDAO>();
 builder.Services.AddScoped<IService<Cliente>, ClienteService>();
-builder.Services.AddScoped<IService<PedidoDetalle>, PedidoDetalleService>();
+builder.Services.AddScoped<IRepository<Pedido>, PedidoDAO>();
+builder.Services.AddScoped<IService<Pedido>, PedidoService>();
+builder.Services.AddScoped<IUsuarioService, UsuarioService>();
+builder.Services.AddScoped<IRepository<Producto>, ProductoDAO>();
+builder.Services.AddScoped<IService<Producto>, ProductoService>();
+builder.Services.AddScoped<IRepository<MetodoPago>, MetodoPagoDAO>();
+builder.Services.AddScoped<IService<MetodoPago>, MetodoPagoService>();
 builder.Services.AddScoped<IService<TarjetaPunto>, TarjetaPuntoService>();
+builder.Services.AddScoped<IRepository<TarjetaPunto>, TarjetaPuntoDAO>();
+builder.Services.AddScoped<IRepository<Categoria>, CategoriaDAO>();
 builder.Services.AddScoped<IService<Categoria>, CategoriaService>();
 builder.Services.AddScoped<IRepository<PedidoDetalle>, PedidoDetalleDAO>();
-builder.Services.AddScoped<IUsuarioService, UsuarioService>();
+builder.Services.AddScoped<IService<PedidoDetalle>, PedidoDetalleService>();
+builder.Services.AddScoped<IRepository<PedidoMetodoPago>, PedidoMetodoPagoDAO>();
+builder.Services.AddScoped<IService<PedidoMetodoPago>, PedidoMetodoPagoService>();
 
 builder.Services.AddAutoMapper(typeof(MappingConfig));
 builder.Services.AddControllers();

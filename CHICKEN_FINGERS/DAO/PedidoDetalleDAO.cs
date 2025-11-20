@@ -6,7 +6,7 @@ using System.Data;
 
 namespace CHICKEN_FINGERS.DAO
 {
-    public class PedidoDetalleDAO : RepositoryBase<PedidoDetalle>, IRepository<PedidoDetalle>, IKeyDAO
+    public class PedidoDetalleDAO : RepositoryBase<PedidoDetalle>, IRepository<PedidoDetalle>, IKeyDAO <PedidoDetalle>
     {
         public PedidoDetalleDAO(ConexionDB conexion) : base(conexion) { }
 

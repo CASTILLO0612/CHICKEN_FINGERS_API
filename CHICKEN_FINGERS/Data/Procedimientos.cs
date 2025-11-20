@@ -28,8 +28,11 @@
         public const string SP_ELIMINAR_CATEGORIA = "sp_EliminarCategoria";
         public const string SP_OBTENER_TODAS_CATEGORIAS = "sp_ObtenerTodasCategorias";
 
-        public const string SP_METODO_PAGO_PEDIDO = "sp_MetodoPagoPedido";
+        public const string SP_INSERTAR_METODO_PAGO_PEDIDO = "sp_InsertarMetodoPagoPedido";
         public const string SP_ELIMINAR_METODO_PAGO_PEDIDO = "sp_EliminarMetodoPagoPedido";
+        public const string SP_LISTAR_METODOS_PAGO_PEDIDO = "sp_ListarPedidoMetodoPago";
+        public const string SP_OBTENER_METODOS_PAGO_PEDIDO_POR_ID = "sp_ObtenerPedidoMetodoPagoPorId";
+
 
         public const string SP_LISTAR_PEDIDOS = "sp_ListarPedidos";
         public const string SP_INSERTAR_PEDIDO = "sp_InsertarPedido";
@@ -42,7 +45,7 @@
         public const string SP_ELIMINAR_TARJETA = "sp_EliminarTarjeta";
         public const string SP_OBTENER_TARJETAS_POR_ID = "sp_ObtenerTarjetasPorId";
 
-        public const string SP_LISTAR_PEDIDO_DETALLE = "sp_ObtenerPedidoDetalles";
+        public const string SP_LISTAR_PEDIDO_DETALLE = "sp_ListarPedidoDetalle";
         public const string SP_INSERTAR_PEDIDO_DETALLE = "sp_InsertarPedidoDetalle";
         public const string SP_OBTENER_PEDIDO_DETALLES_POR_ID = "sp_ObtenerPedidoDetallesPorId";
         public const string SP_ELIMINAR_PEDIDO_DETALLE = "sp_EliminarPedidoDetalle";
