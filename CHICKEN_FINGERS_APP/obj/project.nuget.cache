@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "KvjRwssbPBg=",
+  "dgSpecHash": "5GiooM1dhM4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Yo, Dari\\Universidad Nacional de Ingeniería\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuar\\.nuget\\packages\\fontawesome.sharp\\6.6.0\\fontawesome.sharp.6.6.0.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\krypton.toolkit\\95.25.10.293\\krypton.toolkit.95.25.10.293.nupkg.sha512"
+  ],
   "logs": []
 }

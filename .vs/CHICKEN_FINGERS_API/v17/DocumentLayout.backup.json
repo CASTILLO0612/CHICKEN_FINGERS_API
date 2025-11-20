@@ -1,257 +1,257 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\",
+  "WorkspaceRootPath": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\data\\procedimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\data\\procedimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\data\\procedimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dao\\pedidometodopagodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dao\\pedidometodopagodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dao\\pedidometodopagodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\controllers\\pedidometodopagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\controllers\\pedidometodopagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\controllers\\pedidometodopagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\services\\pedidometodopagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\services\\pedidometodopagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\services\\pedidometodopagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\controllers\\pedidodetallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\controllers\\pedidodetallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\controllers\\pedidodetallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dao\\pedidodetalledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dao\\pedidodetalledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dao\\pedidodetalledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dto\\pedidodetallecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dto\\pedidodetallecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dto\\pedidodetallecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dto\\pedidodetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dto\\pedidodetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dto\\pedidodetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dto\\pedidometodopagocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dto\\pedidometodopagocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dto\\pedidometodopagocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dto\\pedidometodopagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dto\\pedidometodopagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dto\\pedidometodopagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\models\\pedidometodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\models\\pedidometodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\models\\pedidometodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\controllers\\metodopagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\controllers\\metodopagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\controllers\\metodopagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\chicken_fingers.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\chicken_fingers.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\chicken_fingers.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dao\\interfaces\\ikeydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dao\\interfaces\\ikeydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dao\\interfaces\\ikeydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dao\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dao\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dao\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\controllers\\clientescontrolller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\controllers\\clientescontrolller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\controllers\\clientescontrolller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\models\\pedidodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\models\\pedidodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\models\\pedidodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dao\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dao\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dao\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dao\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dao\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dao\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dao\\clientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dao\\clientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dao\\clientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dao\\metodopagodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dao\\metodopagodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dao\\metodopagodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dto\\clienteupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dto\\clienteupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dto\\clienteupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\services\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\services\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\services\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dto\\tarjetapuntocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dto\\tarjetapuntocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dto\\tarjetapuntocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\services\\metodopagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\services\\metodopagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\services\\metodopagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dto\\metodopagoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dto\\metodopagoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dto\\metodopagoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dto\\metodopagocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dto\\metodopagocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dto\\metodopagocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dto\\metodopagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dto\\metodopagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dto\\metodopagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\models\\metodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\models\\metodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\models\\metodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dto\\productoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dto\\productoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dto\\productoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dto\\productocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dto\\productocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dto\\productocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dto\\pedidoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dto\\pedidoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dto\\pedidoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dto\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dto\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dto\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dao\\pedidodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dao\\pedidodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dao\\pedidodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dao\\resportesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dao\\resportesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dao\\resportesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dao\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dao\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dao\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dto\\pedidocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dto\\pedidocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dto\\pedidocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dto\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dto\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dto\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dto\\clientecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dto\\clientecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dto\\clientecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\data\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\data\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\data\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\users\\legion\\documents\\uni\\iv semestre\\base de datos i\\proyecto\\gitproyecto\\chicken_fingers_api\\chicken_fingers\\services\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|c:\\yo, dari\\universidad nacional de ingenier\u00EDa\\iv semestre\\base de datos i\\chicken_fingers_api\\chicken_fingers\\services\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995101AA-AD6B-4496-9368-BC494314775E}|CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj|solutionrelative:chicken_fingers\\services\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C52485D-8176-40E0-B219-17ACDE9D08F8}|CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj|C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\chicken_fingers_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2C52485D-8176-40E0-B219-17ACDE9D08F8}|CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj|C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\chicken_fingers_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2C52485D-8176-40E0-B219-17ACDE9D08F8}|CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj|solutionrelative:chicken_fingers_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -262,7 +262,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -274,11 +274,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Bookmark",
@@ -286,63 +286,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PedidoMetodoPagoController.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\PedidoMetodoPagoController.cs",
-              "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Controllers\\PedidoMetodoPagoController.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\PedidoMetodoPagoController.cs*",
-              "RelativeToolTip": "CHICKEN_FINGERS\\Controllers\\PedidoMetodoPagoController.cs*",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFAAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T02:26:20.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "PedidoService.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\PedidoService.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\PedidoService.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Services\\PedidoService.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\PedidoService.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\PedidoService.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Services\\PedidoService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T02:02:44.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T02:02:44.601Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "PedidoMetodoPagoService.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\PedidoMetodoPagoService.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\PedidoMetodoPagoService.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Services\\PedidoMetodoPagoService.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\PedidoMetodoPagoService.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\PedidoMetodoPagoService.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Services\\PedidoMetodoPagoService.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAiwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T03:32:56.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T03:32:56.845Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PedidoMetodoPagoDAO.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\PedidoMetodoPagoDAO.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\PedidoMetodoPagoDAO.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\DAO\\PedidoMetodoPagoDAO.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\PedidoMetodoPagoDAO.cs*",
-              "RelativeToolTip": "CHICKEN_FINGERS\\DAO\\PedidoMetodoPagoDAO.cs*",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\PedidoMetodoPagoDAO.cs",
+              "RelativeToolTip": "CHICKEN_FINGERS\\DAO\\PedidoMetodoPagoDAO.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAiwCAAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T01:35:04.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T01:35:04.457Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Procedimientos.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Data\\Procedimientos.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Data\\Procedimientos.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Data\\Procedimientos.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Data\\Procedimientos.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Data\\Procedimientos.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Data\\Procedimientos.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAhwCAAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -351,401 +335,383 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoMetodoPagoController.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\PedidoMetodoPagoController.cs",
+              "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Controllers\\PedidoMetodoPagoController.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\PedidoMetodoPagoController.cs",
+              "RelativeToolTip": "CHICKEN_FINGERS\\Controllers\\PedidoMetodoPagoController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:26:20.218Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ProductoController.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\ProductoController.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Controllers\\ProductoController.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\ProductoController.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Controllers\\ProductoController.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T00:41:27.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T00:41:27.503Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "PedidoDetalleController.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\PedidoDetalleController.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\PedidoDetalleController.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Controllers\\PedidoDetalleController.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\PedidoDetalleController.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\PedidoDetalleController.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Controllers\\PedidoDetalleController.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAAAFkAAABzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T02:11:10.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T02:11:10.365Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "PedidoDetalleCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoDetalleCreateDto.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoDetalleCreateDto.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Dto\\PedidoDetalleCreateDto.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoDetalleCreateDto.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoDetalleCreateDto.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Dto\\PedidoDetalleCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T01:26:43.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T01:26:43.466Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "PedidoDetalleDAO.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\PedidoDetalleDAO.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\PedidoDetalleDAO.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\DAO\\PedidoDetalleDAO.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\PedidoDetalleDAO.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\PedidoDetalleDAO.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\DAO\\PedidoDetalleDAO.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAiwCgAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T02:11:15.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T02:11:15.061Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ProductoService.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\ProductoService.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\ProductoService.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Services\\ProductoService.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\ProductoService.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Services\\ProductoService.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAYwBUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T22:21:00.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T22:21:00.985Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "PedidoDetalleDto.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoDetalleDto.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoDetalleDto.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Dto\\PedidoDetalleDto.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoDetalleDto.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoDetalleDto.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Dto\\PedidoDetalleDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T01:26:46.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T01:26:46.781Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "PedidoMetodoPagoCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoMetodoPagoCreateDto.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoMetodoPagoCreateDto.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Dto\\PedidoMetodoPagoCreateDto.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoMetodoPagoCreateDto.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoMetodoPagoCreateDto.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Dto\\PedidoMetodoPagoCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T01:26:14.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T01:26:14.817Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "PedidoMetodoPagoDto.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoMetodoPagoDto.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoMetodoPagoDto.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Dto\\PedidoMetodoPagoDto.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoMetodoPagoDto.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoMetodoPagoDto.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Dto\\PedidoMetodoPagoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T01:25:53.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T01:25:53.452Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "PedidoMetodoPago.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\PedidoMetodoPago.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\PedidoMetodoPago.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Models\\PedidoMetodoPago.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\PedidoMetodoPago.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\PedidoMetodoPago.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Models\\PedidoMetodoPago.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T01:25:04.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T01:25:04.924Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "MetodoPagoController.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\MetodoPagoController.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\MetodoPagoController.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Controllers\\MetodoPagoController.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\MetodoPagoController.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\MetodoPagoController.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Controllers\\MetodoPagoController.cs",
               "ViewState": "AgIAAIIAAAAAAAAAAADwv48AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T00:09:32.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T00:09:32.253Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "MappingConfig.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\MappingConfig.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\MappingConfig.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\MappingConfig.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\MappingConfig.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\MappingConfig.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\MappingConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T01:02:03.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T01:02:03.338Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "CHICKEN_FINGERS.http",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\CHICKEN_FINGERS.http",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\CHICKEN_FINGERS.http",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\CHICKEN_FINGERS.http",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\CHICKEN_FINGERS.http",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\CHICKEN_FINGERS.http",
               "RelativeToolTip": "CHICKEN_FINGERS\\CHICKEN_FINGERS.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-11-19T23:12:11.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T23:12:11.054Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Program.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Program.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Program.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Program.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Program.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Program.cs",
               "ViewState": "AgIAAGAAAAAAAAAAAAAAAC4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T23:32:39.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T23:32:39.684Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "IKeyDAO.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\Interfaces\\IKeyDAO.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\Interfaces\\IKeyDAO.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\DAO\\Interfaces\\IKeyDAO.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\Interfaces\\IKeyDAO.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\Interfaces\\IKeyDAO.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\DAO\\Interfaces\\IKeyDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T01:26:30.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T01:26:30.832Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\Interfaces\\IRepository.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\DAO\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\Interfaces\\IRepository.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\DAO\\Interfaces\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T00:13:19.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T00:13:19.003Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "ClientesControlller.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\ClientesControlller.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\ClientesControlller.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Controllers\\ClientesControlller.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\ClientesControlller.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\ClientesControlller.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Controllers\\ClientesControlller.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAiwC4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T00:47:24.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T00:47:24.062Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "PedidoDetalle.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\PedidoDetalle.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\PedidoDetalle.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Models\\PedidoDetalle.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\PedidoDetalle.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\PedidoDetalle.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Models\\PedidoDetalle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAswAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T01:30:46.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T01:30:46.223Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "ProductoDAO.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\ProductoDAO.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\ProductoDAO.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\DAO\\ProductoDAO.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\ProductoDAO.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\ProductoDAO.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\DAO\\ProductoDAO.cs",
               "ViewState": "AgIAAFcAAAAAAAAAAAAYwGQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T22:29:30.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T22:29:30.416Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "IService.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\Interfaces\\IService.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\Interfaces\\IService.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Services\\Interfaces\\IService.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\Interfaces\\IService.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\Interfaces\\IService.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Services\\Interfaces\\IService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T02:03:29.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T02:03:29.051Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\RepositoryBase.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\DAO\\RepositoryBase.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\RepositoryBase.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\RepositoryBase.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\DAO\\RepositoryBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T00:11:59.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T00:11:59.349Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "ClienteDAO.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\ClienteDAO.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\ClienteDAO.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\DAO\\ClienteDAO.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\ClienteDAO.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\ClienteDAO.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\DAO\\ClienteDAO.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAowB4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T00:11:43.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T00:11:43.576Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "MetodoPagoDAO.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\MetodoPagoDAO.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\MetodoPagoDAO.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\DAO\\MetodoPagoDAO.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\MetodoPagoDAO.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\MetodoPagoDAO.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\DAO\\MetodoPagoDAO.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T02:13:48.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T02:13:48.971Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "ClienteUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\ClienteUpdateDto.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\ClienteUpdateDto.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Dto\\ClienteUpdateDto.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\ClienteUpdateDto.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\ClienteUpdateDto.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Dto\\ClienteUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T00:17:37.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T00:17:37.079Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "ClienteService.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\ClienteService.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\ClienteService.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Services\\ClienteService.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\ClienteService.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Services\\ClienteService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T00:50:04.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T00:50:04.356Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "ServiceBase.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\ServiceBase.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\ServiceBase.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Services\\ServiceBase.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\ServiceBase.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\ServiceBase.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Services\\ServiceBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T00:56:07.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T00:56:07.436Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\Producto.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Models\\Producto.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\Producto.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\Producto.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Models\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T21:44:56.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T21:44:56.43Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "TarjetaPuntoCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\TarjetaPuntoCreateDto.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\TarjetaPuntoCreateDto.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Dto\\TarjetaPuntoCreateDto.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\TarjetaPuntoCreateDto.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\TarjetaPuntoCreateDto.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Dto\\TarjetaPuntoCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T01:27:01.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T01:27:01.995Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\appsettings.json",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\appsettings.json",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\appsettings.json",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\appsettings.json",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\appsettings.json",
               "RelativeToolTip": "CHICKEN_FINGERS\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-18T01:18:57.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T01:18:57.566Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "ClienteDto.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\ClienteDto.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\ClienteDto.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Dto\\ClienteDto.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\ClienteDto.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\ClienteDto.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Dto\\ClienteDto.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAswAwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T00:16:37.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T00:16:37.756Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\appsettings.Development.json",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\appsettings.Development.json",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\appsettings.Development.json",
               "RelativeToolTip": "CHICKEN_FINGERS\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-20T01:15:18.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T01:15:18.76Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "MetodoPagoService.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\MetodoPagoService.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\MetodoPagoService.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Services\\MetodoPagoService.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\MetodoPagoService.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\MetodoPagoService.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Services\\MetodoPagoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -755,9 +721,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "PedidoController.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\PedidoController.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\PedidoController.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Controllers\\PedidoController.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\PedidoController.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Controllers\\PedidoController.cs",
               "ViewState": "AgIAAG0AAAAAAAAAAADwv3kAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -767,9 +733,9 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "MetodoPagoUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\MetodoPagoUpdateDto.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\MetodoPagoUpdateDto.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Dto\\MetodoPagoUpdateDto.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\MetodoPagoUpdateDto.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\MetodoPagoUpdateDto.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Dto\\MetodoPagoUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -779,9 +745,9 @@
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "MetodoPagoCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\MetodoPagoCreateDto.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\MetodoPagoCreateDto.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Dto\\MetodoPagoCreateDto.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\MetodoPagoCreateDto.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\MetodoPagoCreateDto.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Dto\\MetodoPagoCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -791,9 +757,9 @@
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "MetodoPagoDto.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\MetodoPagoDto.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\MetodoPagoDto.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Dto\\MetodoPagoDto.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\MetodoPagoDto.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\MetodoPagoDto.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Dto\\MetodoPagoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -803,9 +769,9 @@
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "MetodoPago.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\MetodoPago.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\MetodoPago.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Models\\MetodoPago.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\MetodoPago.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\MetodoPago.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Models\\MetodoPago.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -815,9 +781,9 @@
               "$type": "Document",
               "DocumentIndex": 42,
               "Title": "ProductoCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\ProductoCreateDto.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\ProductoCreateDto.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Dto\\ProductoCreateDto.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\ProductoCreateDto.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\ProductoCreateDto.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Dto\\ProductoCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAswAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -827,9 +793,9 @@
               "$type": "Document",
               "DocumentIndex": 41,
               "Title": "ProductoUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\ProductoUpdateDto.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\ProductoUpdateDto.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Dto\\ProductoUpdateDto.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\ProductoUpdateDto.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\ProductoUpdateDto.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Dto\\ProductoUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAswAcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -839,9 +805,9 @@
               "$type": "Document",
               "DocumentIndex": 44,
               "Title": "PedidoDto.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoDto.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoDto.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Dto\\PedidoDto.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoDto.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoDto.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Dto\\PedidoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -851,9 +817,9 @@
               "$type": "Document",
               "DocumentIndex": 43,
               "Title": "PedidoUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoUpdateDto.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoUpdateDto.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Dto\\PedidoUpdateDto.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoUpdateDto.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoUpdateDto.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Dto\\PedidoUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -863,9 +829,9 @@
               "$type": "Document",
               "DocumentIndex": 45,
               "Title": "PedidoDAO.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\PedidoDAO.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\PedidoDAO.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\DAO\\PedidoDAO.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\PedidoDAO.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\PedidoDAO.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\DAO\\PedidoDAO.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAuwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -875,9 +841,9 @@
               "$type": "Document",
               "DocumentIndex": 46,
               "Title": "ProductoDto.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\ProductoDto.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\ProductoDto.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Dto\\ProductoDto.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\ProductoDto.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\ProductoDto.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Dto\\ProductoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -887,9 +853,9 @@
               "$type": "Document",
               "DocumentIndex": 47,
               "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\UsuarioService.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\UsuarioService.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Services\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\UsuarioService.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Services\\UsuarioService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -899,9 +865,9 @@
               "$type": "Document",
               "DocumentIndex": 48,
               "Title": "ResportesDAO.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\ResportesDAO.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\ResportesDAO.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\DAO\\ResportesDAO.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\ResportesDAO.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\ResportesDAO.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\DAO\\ResportesDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -911,9 +877,9 @@
               "$type": "Document",
               "DocumentIndex": 49,
               "Title": "UsuarioDAO.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\UsuarioDAO.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\UsuarioDAO.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\DAO\\UsuarioDAO.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\UsuarioDAO.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\DAO\\UsuarioDAO.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\DAO\\UsuarioDAO.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAYwBoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -923,9 +889,9 @@
               "$type": "Document",
               "DocumentIndex": 50,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Controllers\\AuthController.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Controllers\\AuthController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAYwBcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -935,9 +901,9 @@
               "$type": "Document",
               "DocumentIndex": 51,
               "Title": "PedidoCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoCreateDto.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoCreateDto.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Dto\\PedidoCreateDto.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoCreateDto.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\PedidoCreateDto.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Dto\\PedidoCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -947,9 +913,9 @@
               "$type": "Document",
               "DocumentIndex": 52,
               "Title": "LoginResponse.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\LoginResponse.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\LoginResponse.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Dto\\LoginResponse.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\LoginResponse.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\LoginResponse.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Dto\\LoginResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -959,9 +925,9 @@
               "$type": "Document",
               "DocumentIndex": 53,
               "Title": "ClienteCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\ClienteCreateDto.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\ClienteCreateDto.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Dto\\ClienteCreateDto.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\ClienteCreateDto.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\ClienteCreateDto.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Dto\\ClienteCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -971,9 +937,9 @@
               "$type": "Document",
               "DocumentIndex": 54,
               "Title": "Pedido.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\Pedido.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\Pedido.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Models\\Pedido.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\Pedido.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Models\\Pedido.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -983,9 +949,9 @@
               "$type": "Document",
               "DocumentIndex": 55,
               "Title": "JwtService.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\JwtService.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\JwtService.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Services\\JwtService.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\JwtService.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Services\\JwtService.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwCAAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -995,9 +961,9 @@
               "$type": "Document",
               "DocumentIndex": 56,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\Usuario.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\Usuario.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Models\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1007,9 +973,9 @@
               "$type": "Document",
               "DocumentIndex": 57,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\Cliente.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Models\\Cliente.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Models\\Cliente.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAA9wAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1019,9 +985,9 @@
               "$type": "Document",
               "DocumentIndex": 59,
               "Title": "ExceptionMiddleWare.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Middleware\\ExceptionMiddleWare.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Middleware\\ExceptionMiddleWare.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Middleware\\ExceptionMiddleWare.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Middleware\\ExceptionMiddleWare.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Middleware\\ExceptionMiddleWare.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Middleware\\ExceptionMiddleWare.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1031,9 +997,9 @@
               "$type": "Document",
               "DocumentIndex": 61,
               "Title": "IUsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\Interfaces\\IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\Interfaces\\IUsuarioService.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Services\\Interfaces\\IUsuarioService.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Services\\Interfaces\\IUsuarioService.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Services\\Interfaces\\IUsuarioService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1043,9 +1009,9 @@
               "$type": "Document",
               "DocumentIndex": 58,
               "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\LoginRequest.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\LoginRequest.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Dto\\LoginRequest.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\LoginRequest.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Dto\\LoginRequest.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Dto\\LoginRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1055,9 +1021,9 @@
               "$type": "Document",
               "DocumentIndex": 60,
               "Title": "ConexionDB.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Data\\ConexionDB.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Data\\ConexionDB.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS\\Data\\ConexionDB.cs",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Data\\ConexionDB.cs",
+              "ToolTip": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\Data\\ConexionDB.cs",
               "RelativeToolTip": "CHICKEN_FINGERS\\Data\\ConexionDB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1067,10 +1033,10 @@
               "$type": "Document",
               "DocumentIndex": 62,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\Form1.cs",
+              "DocumentMoniker": "C:\\Yo, Dari\\Universidad Nacional de Ingenier\u00EDa\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\Form1.cs",
               "RelativeDocumentMoniker": "CHICKEN_FINGERS_APP\\Form1.cs",
               "ToolTip": "C:\\Users\\DeLL\\Documents\\Universidad Nacional de Ingenieria\\A\u00F1o 2\\Semestre 2\\Base de Datos I\\ADO.NET\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\DeLL\\Documents\\Universidad Nacional de Ingenieria\\A\u00F1o 2\\Semestre 2\\Base de Datos I\\ADO.NET\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\DeLL\\Documents\\Universidad Nacional de Ingenieria\\A\u00F1o 2\\Semestre 2\\Base de Datos I\\ADO.NET\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T20:06:30.304Z"
             }
