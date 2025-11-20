@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\CHICKEN_FINGERS.props" />
-</Project>

@@ -1,0 +1,36 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+Debug/
+Release/
+
+# Rider
+.idea/
+
+# Node / npm (si tuvieras algo)
+node_modules/
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# Respaldo de layout y archivos temporales
+*.backup
+*.db
+*.db-shm
+*.db-wal
+*.vsidx
+
+# Packages
+*.nupkg
+*.snupkg
+packages/
