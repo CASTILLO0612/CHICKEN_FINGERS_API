@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CHICKEN_FINGERS_APP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40d54fb1c5af873de6508cf855e9053dafdb87b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3e8e5313a7229cf0084c8acbafc7a92044fa2bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("CHICKEN_FINGERS_APP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CHICKEN_FINGERS_APP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

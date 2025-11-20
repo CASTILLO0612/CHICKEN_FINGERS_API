@@ -58,6 +58,10 @@
             "Krypton.Toolkit": {
               "target": "Package",
               "version": "[95.25.10.293, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
             }
           },
           "imports": [

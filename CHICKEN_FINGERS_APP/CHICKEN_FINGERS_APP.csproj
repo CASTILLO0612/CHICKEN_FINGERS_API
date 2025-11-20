@@ -54,6 +54,7 @@
 	<ItemGroup>
 		<PackageReference Include="FontAwesome.Sharp" Version="6.6.0" />
 		<PackageReference Include="Krypton.Toolkit" Version="95.25.10.293" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -70,8 +71,4 @@
 			<LastGenOutput>Resources.Designer.cs</LastGenOutput>
 		</EmbeddedResource>
 	</ItemGroup>
-	<Target Name="KillLockingProcess" BeforeTargets="CoreBuild">
-		<Exec Command="taskkill /f /fi &quot;IMAGENAME eq CHICKEN_FINGERS_APP.exe&quot;"
-			  ContinueOnError="true" />
-	</Target>
 </Project>

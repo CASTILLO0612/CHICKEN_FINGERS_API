@@ -45,6 +45,7 @@ builder.Services.AddScoped<TarjetaPuntoDAO>();
 builder.Services.AddScoped<CategoriaDAO>();
 builder.Services.AddScoped<PedidoDetalleDAO>();
 builder.Services.AddScoped<PedidoMetodoPagoDAO>();
+builder.Services.AddScoped<ReportesDAO>();
 
 builder.Services.AddScoped<ClienteService>();
 builder.Services.AddScoped<JwtService>();
@@ -67,6 +68,7 @@ builder.Services.AddScoped<IRepository<PedidoDetalle>, PedidoDetalleDAO>();
 builder.Services.AddScoped<IService<PedidoDetalle>, PedidoDetalleService>();
 builder.Services.AddScoped<IRepository<PedidoMetodoPago>, PedidoMetodoPagoDAO>();
 builder.Services.AddScoped<IService<PedidoMetodoPago>, PedidoMetodoPagoService>();
+builder.Services.AddScoped<IReporteService, ReporteService>();
 
 builder.Services.AddAutoMapper(typeof(MappingConfig));
 builder.Services.AddControllers();

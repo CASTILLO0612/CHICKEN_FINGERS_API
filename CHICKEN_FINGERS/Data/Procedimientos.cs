@@ -3,6 +3,7 @@
     public class Procedimientos
     {
         public const string SP_VALIDAR_USUARIO = "sp_validar_usuario";
+        public const string SP_REPORTE_CLIENTES = "sp_ReporteClientes";
 
         public const string SP_AGREGAR_PRODUCTO = "sp_AgregarProducto";
         public const string SP_ELIMINAR_PRODUCTO = "sp_EliminarProducto";
