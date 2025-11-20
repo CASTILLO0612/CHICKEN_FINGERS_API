@@ -66,23 +66,23 @@
             kryptonPanel1.Dock = DockStyle.Left;
             kryptonPanel1.Location = new Point(0, 0);
             kryptonPanel1.Name = "kryptonPanel1";
-            kryptonPanel1.Size = new Size(492, 523);
+            kryptonPanel1.Size = new Size(535, 823);
             kryptonPanel1.TabIndex = 0;
             // 
             // dtgCategorias
             // 
             dtgCategorias.BorderStyle = BorderStyle.None;
             dtgCategorias.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dtgCategorias.Location = new Point(17, 337);
+            dtgCategorias.Location = new Point(17, 444);
             dtgCategorias.Name = "dtgCategorias";
             dtgCategorias.RowHeadersWidth = 51;
-            dtgCategorias.Size = new Size(465, 144);
+            dtgCategorias.Size = new Size(465, 299);
             dtgCategorias.TabIndex = 6;
             // 
             // txtCategorias
             // 
             txtCategorias.Font = new Font("Californian FB", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            txtCategorias.Location = new Point(80, 297);
+            txtCategorias.Location = new Point(80, 404);
             txtCategorias.Name = "txtCategorias";
             txtCategorias.ReadOnly = true;
             txtCategorias.Size = new Size(296, 34);
@@ -100,7 +100,7 @@
             dtgProductos.Name = "dtgProductos";
             dtgProductos.ReadOnly = true;
             dtgProductos.RowHeadersWidth = 51;
-            dtgProductos.Size = new Size(479, 212);
+            dtgProductos.Size = new Size(479, 288);
             dtgProductos.TabIndex = 4;
             // 
             // txtProductos
@@ -111,7 +111,7 @@
             txtProductos.ReadOnly = true;
             txtProductos.Size = new Size(296, 34);
             txtProductos.TabIndex = 3;
-            txtProductos.Text = "Pedidos";
+            txtProductos.Text = "Productos";
             txtProductos.TextAlign = HorizontalAlignment.Center;
             // 
             // kryptonPanel2
@@ -131,14 +131,14 @@
             kryptonPanel2.Controls.Add(txtEditarProducto);
             kryptonPanel2.Controls.Add(txtNombreProducto);
             kryptonPanel2.Dock = DockStyle.Right;
-            kryptonPanel2.Location = new Point(485, 0);
+            kryptonPanel2.Location = new Point(532, 0);
             kryptonPanel2.Name = "kryptonPanel2";
-            kryptonPanel2.Size = new Size(415, 523);
+            kryptonPanel2.Size = new Size(468, 823);
             kryptonPanel2.TabIndex = 1;
             // 
             // txtPrecioUnitario
             // 
-            txtPrecioUnitario.Location = new Point(0, 111);
+            txtPrecioUnitario.Location = new Point(34, 128);
             txtPrecioUnitario.Name = "txtPrecioUnitario";
             txtPrecioUnitario.Size = new Size(196, 31);
             txtPrecioUnitario.StateCommon.Content.Font = new Font("Californian FB", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
@@ -147,7 +147,7 @@
             // 
             // btnAgregarCategoria
             // 
-            btnAgregarCategoria.Location = new Point(125, 411);
+            btnAgregarCategoria.Location = new Point(159, 565);
             btnAgregarCategoria.Name = "btnAgregarCategoria";
             btnAgregarCategoria.Size = new Size(155, 42);
             btnAgregarCategoria.StateCommon.Content.LongText.Font = new Font("Californian FB", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
@@ -158,7 +158,7 @@
             // 
             // btnEditarCategoria
             // 
-            btnEditarCategoria.Location = new Point(217, 459);
+            btnEditarCategoria.Location = new Point(251, 613);
             btnEditarCategoria.Name = "btnEditarCategoria";
             btnEditarCategoria.Size = new Size(155, 42);
             btnEditarCategoria.StateCommon.Content.LongText.Font = new Font("Californian FB", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
@@ -169,7 +169,7 @@
             // 
             // btnEliminarCategoria
             // 
-            btnEliminarCategoria.Location = new Point(41, 459);
+            btnEliminarCategoria.Location = new Point(75, 613);
             btnEliminarCategoria.Name = "btnEliminarCategoria";
             btnEliminarCategoria.Size = new Size(155, 42);
             btnEliminarCategoria.StateCommon.Content.LongText.Font = new Font("Californian FB", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
@@ -180,7 +180,7 @@
             // 
             // txtIdCategoria
             // 
-            txtIdCategoria.Location = new Point(15, 411);
+            txtIdCategoria.Location = new Point(49, 490);
             txtIdCategoria.Name = "txtIdCategoria";
             txtIdCategoria.ReadOnly = true;
             txtIdCategoria.Size = new Size(68, 31);
@@ -191,7 +191,7 @@
             // 
             // txtNombreCategoria
             // 
-            txtNombreCategoria.Location = new Point(15, 374);
+            txtNombreCategoria.Location = new Point(49, 453);
             txtNombreCategoria.Name = "txtNombreCategoria";
             txtNombreCategoria.Size = new Size(387, 31);
             txtNombreCategoria.StateCommon.Content.Font = new Font("Californian FB", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
@@ -201,7 +201,7 @@
             // txtEditarCategorias
             // 
             txtEditarCategorias.Font = new Font("Californian FB", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            txtEditarCategorias.Location = new Point(58, 325);
+            txtEditarCategorias.Location = new Point(92, 404);
             txtEditarCategorias.Name = "txtEditarCategorias";
             txtEditarCategorias.ReadOnly = true;
             txtEditarCategorias.Size = new Size(296, 34);
@@ -211,7 +211,7 @@
             // 
             // btnAgregarProducto
             // 
-            btnAgregarProducto.Location = new Point(125, 258);
+            btnAgregarProducto.Location = new Point(159, 275);
             btnAgregarProducto.Name = "btnAgregarProducto";
             btnAgregarProducto.Size = new Size(155, 42);
             btnAgregarProducto.StateCommon.Content.LongText.Font = new Font("Californian FB", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
@@ -222,7 +222,7 @@
             // 
             // btnEditarProducto
             // 
-            btnEditarProducto.Location = new Point(217, 210);
+            btnEditarProducto.Location = new Point(251, 227);
             btnEditarProducto.Name = "btnEditarProducto";
             btnEditarProducto.Size = new Size(155, 42);
             btnEditarProducto.StateCommon.Content.LongText.Font = new Font("Californian FB", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
@@ -233,7 +233,7 @@
             // 
             // txtIdProducto
             // 
-            txtIdProducto.Location = new Point(322, 111);
+            txtIdProducto.Location = new Point(356, 128);
             txtIdProducto.Name = "txtIdProducto";
             txtIdProducto.ReadOnly = true;
             txtIdProducto.Size = new Size(68, 31);
@@ -244,7 +244,7 @@
             // 
             // btnEliminarProducto
             // 
-            btnEliminarProducto.Location = new Point(28, 210);
+            btnEliminarProducto.Location = new Point(62, 227);
             btnEliminarProducto.Name = "btnEliminarProducto";
             btnEliminarProducto.Size = new Size(155, 42);
             btnEliminarProducto.StateCommon.Content.LongText.Font = new Font("Californian FB", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
@@ -256,7 +256,7 @@
             // cbCategoria
             // 
             cbCategoria.DropDownWidth = 210;
-            cbCategoria.Location = new Point(3, 164);
+            cbCategoria.Location = new Point(37, 181);
             cbCategoria.Name = "cbCategoria";
             cbCategoria.Size = new Size(210, 29);
             cbCategoria.StateCommon.ComboBox.Content.Font = new Font("Californian FB", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
@@ -267,7 +267,7 @@
             // txtEditarProducto
             // 
             txtEditarProducto.Font = new Font("Californian FB", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            txtEditarProducto.Location = new Point(41, 3);
+            txtEditarProducto.Location = new Point(92, 3);
             txtEditarProducto.Name = "txtEditarProducto";
             txtEditarProducto.ReadOnly = true;
             txtEditarProducto.Size = new Size(296, 34);
@@ -277,7 +277,7 @@
             // 
             // txtNombreProducto
             // 
-            txtNombreProducto.Location = new Point(3, 53);
+            txtNombreProducto.Location = new Point(37, 70);
             txtNombreProducto.Name = "txtNombreProducto";
             txtNombreProducto.Size = new Size(387, 31);
             txtNombreProducto.StateCommon.Content.Font = new Font("Californian FB", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
@@ -291,7 +291,7 @@
             Controls.Add(kryptonPanel2);
             Controls.Add(kryptonPanel1);
             Name = "UC_Productos";
-            Size = new Size(900, 523);
+            Size = new Size(1000, 823);
             ((System.ComponentModel.ISupportInitialize)kryptonPanel1).EndInit();
             kryptonPanel1.ResumeLayout(false);
             kryptonPanel1.PerformLayout();

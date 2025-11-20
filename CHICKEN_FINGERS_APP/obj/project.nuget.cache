@@ -1,17 +1,72 @@
 {
   "version": 2,
-  "dgSpecHash": "P69pXlLg+Wc=",
+  "dgSpecHash": "FBOoJ0o1HZo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DeLL\\Documents\\Universidad Nacional de Ingenieria\\Año 2\\Semestre 2\\Base de Datos I\\ADO.NET\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
+  "projectFilePath": "C:\\Yo, Dari\\Universidad Nacional de Ingeniería\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DeLL\\.nuget\\packages\\fontawesome.sharp\\6.6.0\\fontawesome.sharp.6.6.0.nupkg.sha512",
-    "C:\\Users\\DeLL\\.nuget\\packages\\krypton.toolkit\\95.25.10.293\\krypton.toolkit.95.25.10.293.nupkg.sha512",
-    "C:\\Users\\DeLL\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
-    "C:\\Users\\DeLL\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.205\\microsoft.net.sdk.compilers.toolset.9.0.205.nupkg.sha512",
-    "C:\\Users\\DeLL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.17\\microsoft.windowsdesktop.app.ref.8.0.17.nupkg.sha512",
-    "C:\\Users\\DeLL\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.17\\microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
-    "C:\\Users\\DeLL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.17\\microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512",
-    "C:\\Users\\DeLL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.17\\microsoft.netcore.app.host.win-x64.8.0.17.nupkg.sha512"
+    "C:\\Users\\Usuar\\.nuget\\packages\\closedxml\\0.105.0\\closedxml.0.105.0.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\closedxml.parser\\2.0.0\\closedxml.parser.2.0.0.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\documentformat.openxml\\3.1.1\\documentformat.openxml.3.1.1.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\documentformat.openxml.framework\\3.1.1\\documentformat.openxml.framework.3.1.1.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\excelnumberformat\\1.1.0\\excelnumberformat.1.1.0.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\fontawesome.sharp\\6.6.0\\fontawesome.sharp.6.6.0.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\harfbuzzsharp\\8.3.1.1\\harfbuzzsharp.8.3.1.1.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\harfbuzzsharp.nativeassets.linux\\8.3.1.1\\harfbuzzsharp.nativeassets.linux.8.3.1.1.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\8.3.1.1\\harfbuzzsharp.nativeassets.macos.8.3.1.1.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\8.3.1.1\\harfbuzzsharp.nativeassets.win32.8.3.1.1.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\krypton.toolkit\\95.25.10.293\\krypton.toolkit.95.25.10.293.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\opentk\\3.1.0\\opentk.3.1.0.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\opentk.glcontrol\\3.1.0\\opentk.glcontrol.3.1.0.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\rbush.signed\\4.0.0\\rbush.signed.4.0.0.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\scottplot\\5.1.57\\scottplot.5.1.57.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\scottplot.winforms\\5.1.57\\scottplot.winforms.5.1.57.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\sixlabors.fonts\\1.0.0\\sixlabors.fonts.1.0.0.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\skiasharp\\3.119.0\\skiasharp.3.119.0.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\skiasharp.harfbuzz\\3.119.0\\skiasharp.harfbuzz.3.119.0.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\skiasharp.nativeassets.linux.nodependencies\\3.119.0\\skiasharp.nativeassets.linux.nodependencies.3.119.0.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\skiasharp.nativeassets.macos\\3.119.0\\skiasharp.nativeassets.macos.3.119.0.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\skiasharp.nativeassets.win32\\3.119.0\\skiasharp.nativeassets.win32.3.119.0.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\skiasharp.views.desktop.common\\3.119.0\\skiasharp.views.desktop.common.3.119.0.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\skiasharp.views.windowsforms\\3.119.0\\skiasharp.views.windowsforms.3.119.0.nupkg.sha512",
+    "C:\\Users\\Usuar\\.nuget\\packages\\system.io.packaging\\8.0.1\\system.io.packaging.8.0.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "El paquete \"OpenTK 3.1.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "projectPath": "C:\\Yo, Dari\\Universidad Nacional de Ingeniería\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Yo, Dari\\Universidad Nacional de Ingeniería\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
+      "libraryId": "OpenTK",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "El paquete \"OpenTK.GLControl 3.1.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "projectPath": "C:\\Yo, Dari\\Universidad Nacional de Ingeniería\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Yo, Dari\\Universidad Nacional de Ingeniería\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
+      "libraryId": "OpenTK.GLControl",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "El paquete \"SkiaSharp.Views.WindowsForms 3.119.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "projectPath": "C:\\Yo, Dari\\Universidad Nacional de Ingeniería\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Yo, Dari\\Universidad Nacional de Ingeniería\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
+      "libraryId": "SkiaSharp.Views.WindowsForms",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
 }

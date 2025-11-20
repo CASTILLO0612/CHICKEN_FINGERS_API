@@ -29,25 +29,27 @@
         private void InitializeComponent()
         {
             kryptonPanel1 = new Krypton.Toolkit.KryptonPanel();
-            iconPictureBox1 = new FontAwesome.Sharp.IconPictureBox();
-            iconPictureBox2 = new FontAwesome.Sharp.IconPictureBox();
+            pbEye = new FontAwesome.Sharp.IconPictureBox();
             btnIniciarSesion = new FontAwesome.Sharp.IconButton();
             lblPassword = new Krypton.Toolkit.KryptonLabel();
-            kryptonTextBox1 = new Krypton.Toolkit.KryptonTextBox();
+            txtContraseña = new Krypton.Toolkit.KryptonTextBox();
             lblUser = new Krypton.Toolkit.KryptonLabel();
             txtUsuario = new Krypton.Toolkit.KryptonTextBox();
+            iconPictureBox1 = new FontAwesome.Sharp.IconPictureBox();
+            btnSalir = new FontAwesome.Sharp.IconButton();
             ((System.ComponentModel.ISupportInitialize)kryptonPanel1).BeginInit();
             kryptonPanel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pbEye).BeginInit();
             ((System.ComponentModel.ISupportInitialize)iconPictureBox1).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)iconPictureBox2).BeginInit();
             SuspendLayout();
             // 
             // kryptonPanel1
             // 
-            kryptonPanel1.Controls.Add(iconPictureBox2);
+            kryptonPanel1.Controls.Add(btnSalir);
+            kryptonPanel1.Controls.Add(pbEye);
             kryptonPanel1.Controls.Add(btnIniciarSesion);
             kryptonPanel1.Controls.Add(lblPassword);
-            kryptonPanel1.Controls.Add(kryptonTextBox1);
+            kryptonPanel1.Controls.Add(txtContraseña);
             kryptonPanel1.Controls.Add(lblUser);
             kryptonPanel1.Controls.Add(txtUsuario);
             kryptonPanel1.Controls.Add(iconPictureBox1);
@@ -58,36 +60,21 @@
             kryptonPanel1.Size = new Size(330, 420);
             kryptonPanel1.TabIndex = 0;
             // 
-            // iconPictureBox1
+            // pbEye
             // 
-            iconPictureBox1.BackColor = Color.Transparent;
-            iconPictureBox1.BackgroundImage = Properties.Resources.ChickenFingers__1_0;
-            iconPictureBox1.BackgroundImageLayout = ImageLayout.Stretch;
-            iconPictureBox1.ForeColor = SystemColors.ControlText;
-            iconPictureBox1.IconChar = FontAwesome.Sharp.IconChar.None;
-            iconPictureBox1.IconColor = SystemColors.ControlText;
-            iconPictureBox1.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            iconPictureBox1.IconSize = 87;
-            iconPictureBox1.Location = new Point(32, 40);
-            iconPictureBox1.Name = "iconPictureBox1";
-            iconPictureBox1.Size = new Size(251, 87);
-            iconPictureBox1.TabIndex = 0;
-            iconPictureBox1.TabStop = false;
-            // 
-            // iconPictureBox2
-            // 
-            iconPictureBox2.Anchor = AnchorStyles.None;
-            iconPictureBox2.BackColor = Color.Transparent;
-            iconPictureBox2.ForeColor = SystemColors.ControlText;
-            iconPictureBox2.IconChar = FontAwesome.Sharp.IconChar.Eye;
-            iconPictureBox2.IconColor = SystemColors.ControlText;
-            iconPictureBox2.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            iconPictureBox2.IconSize = 24;
-            iconPictureBox2.Location = new Point(245, 260);
-            iconPictureBox2.Name = "iconPictureBox2";
-            iconPictureBox2.Size = new Size(24, 27);
-            iconPictureBox2.TabIndex = 11;
-            iconPictureBox2.TabStop = false;
+            pbEye.Anchor = AnchorStyles.None;
+            pbEye.BackColor = Color.Transparent;
+            pbEye.ForeColor = SystemColors.ControlText;
+            pbEye.IconChar = FontAwesome.Sharp.IconChar.Eye;
+            pbEye.IconColor = SystemColors.ControlText;
+            pbEye.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            pbEye.IconSize = 24;
+            pbEye.Location = new Point(245, 260);
+            pbEye.Name = "pbEye";
+            pbEye.Size = new Size(24, 27);
+            pbEye.TabIndex = 11;
+            pbEye.TabStop = false;
+            pbEye.Click += iconPictureBox2_Click;
             // 
             // btnIniciarSesion
             // 
@@ -114,13 +101,12 @@
             lblPassword.TabIndex = 9;
             lblPassword.Values.Text = "Contraseña";
             // 
-            // kryptonTextBox1
+            // txtContraseña
             // 
-            kryptonTextBox1.Location = new Point(48, 260);
-            kryptonTextBox1.Name = "kryptonTextBox1";
-            kryptonTextBox1.PasswordChar = '*';
-            kryptonTextBox1.Size = new Size(221, 27);
-            kryptonTextBox1.TabIndex = 8;
+            txtContraseña.Location = new Point(48, 260);
+            txtContraseña.Name = "txtContraseña";
+            txtContraseña.Size = new Size(221, 27);
+            txtContraseña.TabIndex = 8;
             // 
             // lblUser
             // 
@@ -137,6 +123,39 @@
             txtUsuario.Size = new Size(221, 27);
             txtUsuario.TabIndex = 6;
             // 
+            // iconPictureBox1
+            // 
+            iconPictureBox1.BackColor = Color.Transparent;
+            iconPictureBox1.BackgroundImage = Properties.Resources.ChickenFingers__1_0;
+            iconPictureBox1.BackgroundImageLayout = ImageLayout.Stretch;
+            iconPictureBox1.ForeColor = SystemColors.ControlText;
+            iconPictureBox1.IconChar = FontAwesome.Sharp.IconChar.None;
+            iconPictureBox1.IconColor = SystemColors.ControlText;
+            iconPictureBox1.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            iconPictureBox1.IconSize = 87;
+            iconPictureBox1.Location = new Point(32, 40);
+            iconPictureBox1.Name = "iconPictureBox1";
+            iconPictureBox1.Size = new Size(251, 87);
+            iconPictureBox1.TabIndex = 0;
+            iconPictureBox1.TabStop = false;
+            // 
+            // btnSalir
+            // 
+            btnSalir.BackColor = Color.DarkSlateBlue;
+            btnSalir.BackgroundImageLayout = ImageLayout.None;
+            btnSalir.FlatStyle = FlatStyle.Flat;
+            btnSalir.ForeColor = Color.White;
+            btnSalir.IconChar = FontAwesome.Sharp.IconChar.None;
+            btnSalir.IconColor = Color.Black;
+            btnSalir.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            btnSalir.Location = new Point(121, 375);
+            btnSalir.Name = "btnSalir";
+            btnSalir.Size = new Size(72, 33);
+            btnSalir.TabIndex = 12;
+            btnSalir.Text = "Salir";
+            btnSalir.UseVisualStyleBackColor = false;
+            btnSalir.Click += btnSalir_Click;
+            // 
             // Iniciar
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -150,8 +169,8 @@
             ((System.ComponentModel.ISupportInitialize)kryptonPanel1).EndInit();
             kryptonPanel1.ResumeLayout(false);
             kryptonPanel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pbEye).EndInit();
             ((System.ComponentModel.ISupportInitialize)iconPictureBox1).EndInit();
-            ((System.ComponentModel.ISupportInitialize)iconPictureBox2).EndInit();
             ResumeLayout(false);
         }
 
@@ -159,11 +178,12 @@
 
         private Krypton.Toolkit.KryptonPanel kryptonPanel1;
         private FontAwesome.Sharp.IconPictureBox iconPictureBox1;
-        private FontAwesome.Sharp.IconPictureBox iconPictureBox2;
+        private FontAwesome.Sharp.IconPictureBox pbEye;
         private FontAwesome.Sharp.IconButton btnIniciarSesion;
         private Krypton.Toolkit.KryptonLabel lblPassword;
-        private Krypton.Toolkit.KryptonTextBox kryptonTextBox1;
+        private Krypton.Toolkit.KryptonTextBox txtContraseña;
         private Krypton.Toolkit.KryptonLabel lblUser;
         private Krypton.Toolkit.KryptonTextBox txtUsuario;
+        private FontAwesome.Sharp.IconButton btnSalir;
     }
 }

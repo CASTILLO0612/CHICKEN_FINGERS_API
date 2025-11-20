@@ -30,16 +30,16 @@
         {
             txtPedidos = new TextBox();
             txtDetalles = new TextBox();
-            btnEliminarDetalle = new FontAwesome.Sharp.IconButton();
-            btnEliminarPedido = new FontAwesome.Sharp.IconButton();
             kryptonPanel1 = new Krypton.Toolkit.KryptonPanel();
-            dtgDetalles = new Krypton.Toolkit.KryptonDataGridView();
             dtgPedidos = new Krypton.Toolkit.KryptonDataGridView();
+            dtgDetalles = new Krypton.Toolkit.KryptonDataGridView();
             kryptonPanel2 = new Krypton.Toolkit.KryptonPanel();
+            btnEliminarPedido = new Krypton.Toolkit.KryptonButton();
+            btnEliminarDetalle = new Krypton.Toolkit.KryptonButton();
             ((System.ComponentModel.ISupportInitialize)kryptonPanel1).BeginInit();
             kryptonPanel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)dtgDetalles).BeginInit();
             ((System.ComponentModel.ISupportInitialize)dtgPedidos).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)dtgDetalles).BeginInit();
             ((System.ComponentModel.ISupportInitialize)kryptonPanel2).BeginInit();
             kryptonPanel2.SuspendLayout();
             SuspendLayout();
@@ -58,7 +58,7 @@
             // txtDetalles
             // 
             txtDetalles.Font = new Font("Californian FB", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            txtDetalles.Location = new Point(60, 12);
+            txtDetalles.Location = new Point(86, 12);
             txtDetalles.Name = "txtDetalles";
             txtDetalles.ReadOnly = true;
             txtDetalles.Size = new Size(296, 34);
@@ -66,51 +66,16 @@
             txtDetalles.Text = "Detalles de los pedidos";
             txtDetalles.TextAlign = HorizontalAlignment.Center;
             // 
-            // btnEliminarDetalle
-            // 
-            btnEliminarDetalle.Font = new Font("Californian FB", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            btnEliminarDetalle.IconChar = FontAwesome.Sharp.IconChar.None;
-            btnEliminarDetalle.IconColor = Color.Black;
-            btnEliminarDetalle.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            btnEliminarDetalle.Location = new Point(228, 372);
-            btnEliminarDetalle.Name = "btnEliminarDetalle";
-            btnEliminarDetalle.Size = new Size(158, 64);
-            btnEliminarDetalle.TabIndex = 4;
-            btnEliminarDetalle.Text = "Eliminar detalle";
-            btnEliminarDetalle.UseVisualStyleBackColor = true;
-            // 
-            // btnEliminarPedido
-            // 
-            btnEliminarPedido.Font = new Font("Californian FB", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            btnEliminarPedido.IconChar = FontAwesome.Sharp.IconChar.None;
-            btnEliminarPedido.IconColor = Color.Black;
-            btnEliminarPedido.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            btnEliminarPedido.Location = new Point(60, 372);
-            btnEliminarPedido.Name = "btnEliminarPedido";
-            btnEliminarPedido.Size = new Size(158, 64);
-            btnEliminarPedido.TabIndex = 5;
-            btnEliminarPedido.Text = "Eliminar pedido";
-            btnEliminarPedido.UseVisualStyleBackColor = true;
-            // 
             // kryptonPanel1
             // 
+            kryptonPanel1.Controls.Add(btnEliminarPedido);
             kryptonPanel1.Controls.Add(dtgPedidos);
             kryptonPanel1.Controls.Add(txtPedidos);
-            kryptonPanel1.Dock = DockStyle.Left;
+            kryptonPanel1.Dock = DockStyle.Fill;
             kryptonPanel1.Location = new Point(0, 0);
             kryptonPanel1.Name = "kryptonPanel1";
-            kryptonPanel1.Size = new Size(516, 523);
+            kryptonPanel1.Size = new Size(1000, 823);
             kryptonPanel1.TabIndex = 6;
-            // 
-            // dtgDetalles
-            // 
-            dtgDetalles.BorderStyle = BorderStyle.None;
-            dtgDetalles.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dtgDetalles.Location = new Point(3, 71);
-            dtgDetalles.Name = "dtgDetalles";
-            dtgDetalles.RowHeadersWidth = 51;
-            dtgDetalles.Size = new Size(397, 230);
-            dtgDetalles.TabIndex = 7;
             // 
             // dtgPedidos
             // 
@@ -122,20 +87,49 @@
             dtgPedidos.Name = "dtgPedidos";
             dtgPedidos.ReadOnly = true;
             dtgPedidos.RowHeadersWidth = 51;
-            dtgPedidos.Size = new Size(470, 429);
+            dtgPedidos.Size = new Size(515, 509);
             dtgPedidos.TabIndex = 6;
+            // 
+            // dtgDetalles
+            // 
+            dtgDetalles.BorderStyle = BorderStyle.None;
+            dtgDetalles.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dtgDetalles.Location = new Point(3, 71);
+            dtgDetalles.Name = "dtgDetalles";
+            dtgDetalles.RowHeadersWidth = 51;
+            dtgDetalles.Size = new Size(434, 509);
+            dtgDetalles.TabIndex = 7;
             // 
             // kryptonPanel2
             // 
+            kryptonPanel2.Controls.Add(btnEliminarDetalle);
             kryptonPanel2.Controls.Add(dtgDetalles);
             kryptonPanel2.Controls.Add(txtDetalles);
-            kryptonPanel2.Controls.Add(btnEliminarDetalle);
-            kryptonPanel2.Controls.Add(btnEliminarPedido);
             kryptonPanel2.Dock = DockStyle.Right;
-            kryptonPanel2.Location = new Point(494, 0);
+            kryptonPanel2.Location = new Point(539, 0);
             kryptonPanel2.Name = "kryptonPanel2";
-            kryptonPanel2.Size = new Size(410, 523);
+            kryptonPanel2.Size = new Size(461, 823);
             kryptonPanel2.TabIndex = 7;
+            // 
+            // btnEliminarPedido
+            // 
+            btnEliminarPedido.Location = new Point(142, 636);
+            btnEliminarPedido.Name = "btnEliminarPedido";
+            btnEliminarPedido.Size = new Size(169, 63);
+            btnEliminarPedido.StateCommon.Content.ShortText.Font = new Font("Californian FB", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnEliminarPedido.TabIndex = 16;
+            btnEliminarPedido.Values.DropDownArrowColor = Color.Empty;
+            btnEliminarPedido.Values.Text = "Eliminar pedido";
+            // 
+            // btnEliminarDetalle
+            // 
+            btnEliminarDetalle.Location = new Point(156, 636);
+            btnEliminarDetalle.Name = "btnEliminarDetalle";
+            btnEliminarDetalle.Size = new Size(169, 63);
+            btnEliminarDetalle.StateCommon.Content.ShortText.Font = new Font("Californian FB", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnEliminarDetalle.TabIndex = 16;
+            btnEliminarDetalle.Values.DropDownArrowColor = Color.Empty;
+            btnEliminarDetalle.Values.Text = "Eliminar detalle";
             // 
             // UC_Historial
             // 
@@ -144,12 +138,12 @@
             Controls.Add(kryptonPanel2);
             Controls.Add(kryptonPanel1);
             Name = "UC_Historial";
-            Size = new Size(904, 523);
+            Size = new Size(1000, 823);
             ((System.ComponentModel.ISupportInitialize)kryptonPanel1).EndInit();
             kryptonPanel1.ResumeLayout(false);
             kryptonPanel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)dtgDetalles).EndInit();
             ((System.ComponentModel.ISupportInitialize)dtgPedidos).EndInit();
+            ((System.ComponentModel.ISupportInitialize)dtgDetalles).EndInit();
             ((System.ComponentModel.ISupportInitialize)kryptonPanel2).EndInit();
             kryptonPanel2.ResumeLayout(false);
             kryptonPanel2.PerformLayout();
@@ -159,11 +153,11 @@
         #endregion
         private TextBox txtPedidos;
         private TextBox txtDetalles;
-        private FontAwesome.Sharp.IconButton btnEliminarDetalle;
-        private FontAwesome.Sharp.IconButton btnEliminarPedido;
         private Krypton.Toolkit.KryptonPanel kryptonPanel1;
         private Krypton.Toolkit.KryptonDataGridView dtgDetalles;
         private Krypton.Toolkit.KryptonDataGridView dtgPedidos;
         private Krypton.Toolkit.KryptonPanel kryptonPanel2;
+        private Krypton.Toolkit.KryptonButton btnEliminarPedido;
+        private Krypton.Toolkit.KryptonButton btnEliminarDetalle;
     }
 }

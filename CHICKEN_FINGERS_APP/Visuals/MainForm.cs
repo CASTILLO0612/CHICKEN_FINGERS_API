@@ -66,7 +66,18 @@ namespace CHICKEN_FINGERS_APP.Visuals
 
         private void btnCerrar_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            DialogResult resultado = MessageBox.Show("¿Estás seguro de que deseas salir?", "Confirmar salida", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
+            if (resultado == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
+        }
+
+        private void btnReportes_Click(object sender, EventArgs e)
+        {
+            UC_Reportes reportes = new UC_Reportes();
+            CargarUserControl(reportes);
         }
     }
 }

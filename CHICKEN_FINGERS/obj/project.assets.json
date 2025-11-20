@@ -1956,23 +1956,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DeLL\\.nuget\\packages\\": {},
+    "C:\\Users\\Usuar\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DeLL\\Documents\\Universidad Nacional de Ingenieria\\Año 2\\Semestre 2\\Base de Datos I\\ADO.NET\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj",
+      "projectUniqueName": "C:\\Yo, Dari\\Universidad Nacional de Ingeniería\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj",
       "projectName": "CHICKEN_FINGERS",
-      "projectPath": "C:\\Users\\DeLL\\Documents\\Universidad Nacional de Ingenieria\\Año 2\\Semestre 2\\Base de Datos I\\ADO.NET\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj",
-      "packagesPath": "C:\\Users\\DeLL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DeLL\\Documents\\Universidad Nacional de Ingenieria\\Año 2\\Semestre 2\\Base de Datos I\\ADO.NET\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\obj\\",
+      "projectPath": "C:\\Yo, Dari\\Universidad Nacional de Ingeniería\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj",
+      "packagesPath": "C:\\Users\\Usuar\\.nuget\\packages\\",
+      "outputPath": "C:\\Yo, Dari\\Universidad Nacional de Ingeniería\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\DeLL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1981,7 +1981,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1998,9 +1997,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -2034,28 +2033,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.17, 8.0.17]"
-          },
-          {
-            "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-            "version": "[9.0.205, 9.0.205]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[8.0.17, 8.0.17]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.17, 8.0.17]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[8.0.17, 8.0.17]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -2064,7 +2041,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

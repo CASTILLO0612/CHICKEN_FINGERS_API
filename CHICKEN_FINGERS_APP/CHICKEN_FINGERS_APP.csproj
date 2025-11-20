@@ -9,51 +9,10 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<Content Include="bin\Debug\net8.0-windows\CHICKEN_FINGERS_APP.deps.json" />
-		<Content Include="bin\Debug\net8.0-windows\CHICKEN_FINGERS_APP.runtimeconfig.json" />
-		<Content Include="obj\CHICKEN_FINGERS_APP.csproj.nuget.dgspec.json" />
-		<Content Include="obj\Debug\net8.0-windows\CHICKEN_FINGERS_APP.csproj.FileListAbsolute.txt" />
-		<Content Include="obj\Debug\net8.0-windows\CHICKEN_FINGERS_APP.designer.deps.json" />
-		<Content Include="obj\Debug\net8.0-windows\CHICKEN_FINGERS_APP.designer.runtimeconfig.json" />
-		<Content Include="obj\project.assets.json" />
-	</ItemGroup>
-
-	<ItemGroup>
-		<None Include="bin\Debug\net8.0-windows\CHICKEN_FINGERS_APP.dll" />
-		<None Include="bin\Debug\net8.0-windows\CHICKEN_FINGERS_APP.exe" />
-		<None Include="bin\Debug\net8.0-windows\CHICKEN_FINGERS_APP.pdb" />
-		<None Include="bin\Debug\net8.0-windows\FontAwesome.Sharp.dll" />
-		<None Include="bin\Debug\net8.0-windows\Krypton.Toolkit.dll" />
-		<None Include="obj\CHICKEN_FINGERS_APP.csproj.nuget.g.props" />
-		<None Include="obj\CHICKEN_FINGERS_APP.csproj.nuget.g.targets" />
-		<None Include="obj\Debug\net8.0-windows\apphost.exe" />
-		<None Include="obj\Debug\net8.0-windows\CHICKEN_.5FDF8C48.Up2Date" />
-		<None Include="obj\Debug\net8.0-windows\CHICKEN_FINGERS_APP.AssemblyInfoInputs.cache" />
-		<None Include="obj\Debug\net8.0-windows\CHICKEN_FINGERS_APP.assets.cache" />
-		<None Include="obj\Debug\net8.0-windows\CHICKEN_FINGERS_APP.csproj.AssemblyReference.cache" />
-		<None Include="obj\Debug\net8.0-windows\CHICKEN_FINGERS_APP.csproj.BuildWithSkipAnalyzers" />
-		<None Include="obj\Debug\net8.0-windows\CHICKEN_FINGERS_APP.csproj.CoreCompileInputs.cache" />
-		<None Include="obj\Debug\net8.0-windows\CHICKEN_FINGERS_APP.csproj.GenerateResource.cache" />
-		<None Include="obj\Debug\net8.0-windows\CHICKEN_FINGERS_APP.dll" />
-		<None Include="obj\Debug\net8.0-windows\CHICKEN_FINGERS_APP.GeneratedMSBuildEditorConfig.editorconfig" />
-		<None Include="obj\Debug\net8.0-windows\CHICKEN_FINGERS_APP.genruntimeconfig.cache" />
-		<None Include="obj\Debug\net8.0-windows\CHICKEN_FINGERS_APP.pdb" />
-		<None Include="obj\Debug\net8.0-windows\CHICKEN_FINGERS_APP.Properties.Resources.resources" />
-		<None Include="obj\Debug\net8.0-windows\CHICKEN_FINGERS_APP.Visuals.Login.resources" />
-		<None Include="obj\Debug\net8.0-windows\CHICKEN_FINGERS_APP.Visuals.MainForm.resources" />
-		<None Include="obj\Debug\net8.0-windows\CHICKEN_FINGERS_APP.Visuals.SecondaryForm.resources" />
-		<None Include="obj\Debug\net8.0-windows\CHICKEN_FINGERS_APP.Visuals.UC_btnGuardarCompra.resources" />
-		<None Include="obj\Debug\net8.0-windows\CHICKEN_FINGERS_APP.Visuals.UC_Historial.resources" />
-		<None Include="obj\Debug\net8.0-windows\CHICKEN_FINGERS_APP.Visuals.UC_Ventas.resources" />
-		<None Include="obj\Debug\net8.0-windows\refint\CHICKEN_FINGERS_APP.dll" />
-		<None Include="obj\Debug\net8.0-windows\ref\CHICKEN_FINGERS_APP.dll" />
-		<None Include="obj\Debug\net8.0-windows\TempPE\Properties.Resources.Designer.cs.dll" />
-		<None Include="obj\project.nuget.cache" />
-	</ItemGroup>
-
-	<ItemGroup>
+		<PackageReference Include="ClosedXML" Version="0.105.0" />
 		<PackageReference Include="FontAwesome.Sharp" Version="6.6.0" />
 		<PackageReference Include="Krypton.Toolkit" Version="95.25.10.293" />
+		<PackageReference Include="ScottPlot.WinForms" Version="5.1.57" />
 		<PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
 	</ItemGroup>
 
@@ -71,4 +30,5 @@
 			<LastGenOutput>Resources.Designer.cs</LastGenOutput>
 		</EmbeddedResource>
 	</ItemGroup>
+
 </Project>

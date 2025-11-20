@@ -74,14 +74,14 @@
             pnVistaProductos.Controls.Add(pbAgregarCliente);
             pnVistaProductos.Controls.Add(pnBotones);
             pnVistaProductos.Dock = DockStyle.Right;
-            pnVistaProductos.Location = new Point(566, 0);
+            pnVistaProductos.Location = new Point(615, 0);
             pnVistaProductos.Name = "pnVistaProductos";
-            pnVistaProductos.Size = new Size(334, 523);
+            pnVistaProductos.Size = new Size(385, 823);
             pnVistaProductos.TabIndex = 0;
             // 
             // lblCambio
             // 
-            lblCambio.Location = new Point(173, 371);
+            lblCambio.Location = new Point(173, 655);
             lblCambio.Name = "lblCambio";
             lblCambio.Size = new Size(64, 24);
             lblCambio.StateCommon.LongText.Font = new Font("Californian FB", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
@@ -91,7 +91,7 @@
             // 
             // lblEfectivo
             // 
-            lblEfectivo.Location = new Point(6, 371);
+            lblEfectivo.Location = new Point(6, 655);
             lblEfectivo.Name = "lblEfectivo";
             lblEfectivo.Size = new Size(126, 24);
             lblEfectivo.StateCommon.LongText.Font = new Font("Californian FB", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
@@ -101,7 +101,7 @@
             // 
             // txtCambio
             // 
-            txtCambio.Location = new Point(163, 401);
+            txtCambio.Location = new Point(163, 685);
             txtCambio.Name = "txtCambio";
             txtCambio.ReadOnly = true;
             txtCambio.Size = new Size(151, 31);
@@ -111,7 +111,7 @@
             // 
             // txtTotal
             // 
-            txtTotal.Location = new Point(187, 45);
+            txtTotal.Location = new Point(224, 43);
             txtTotal.Name = "txtTotal";
             txtTotal.ReadOnly = true;
             txtTotal.Size = new Size(141, 31);
@@ -121,7 +121,7 @@
             // 
             // txtEfectivo
             // 
-            txtEfectivo.Location = new Point(6, 401);
+            txtEfectivo.Location = new Point(6, 685);
             txtEfectivo.Name = "txtEfectivo";
             txtEfectivo.Size = new Size(151, 31);
             txtEfectivo.StateCommon.Content.Font = new Font("Californian FB", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
@@ -135,7 +135,7 @@
             dtgProductosAComprar.Location = new Point(3, 80);
             dtgProductosAComprar.Name = "dtgProductosAComprar";
             dtgProductosAComprar.RowHeadersWidth = 51;
-            dtgProductosAComprar.Size = new Size(325, 282);
+            dtgProductosAComprar.Size = new Size(362, 550);
             dtgProductosAComprar.TabIndex = 4;
             // 
             // txtNombreUsuario
@@ -167,7 +167,7 @@
             pbAgregarCliente.IconColor = SystemColors.ControlText;
             pbAgregarCliente.IconFont = FontAwesome.Sharp.IconFont.Auto;
             pbAgregarCliente.IconSize = 40;
-            pbAgregarCliente.Location = new Point(291, 3);
+            pbAgregarCliente.Location = new Point(345, 0);
             pbAgregarCliente.Name = "pbAgregarCliente";
             pbAgregarCliente.Size = new Size(40, 40);
             pbAgregarCliente.TabIndex = 1;
@@ -179,16 +179,17 @@
             pnBotones.Controls.Add(btnPagar);
             pnBotones.Controls.Add(btnAgregarProducto);
             pnBotones.Dock = DockStyle.Bottom;
-            pnBotones.Location = new Point(0, 438);
+            pnBotones.Location = new Point(0, 738);
             pnBotones.Name = "pnBotones";
-            pnBotones.Size = new Size(334, 85);
+            pnBotones.Size = new Size(385, 85);
             pnBotones.TabIndex = 0;
             // 
             // btnPagar
             // 
-            btnPagar.Location = new Point(163, 3);
+            btnPagar.Location = new Point(182, 3);
             btnPagar.Name = "btnPagar";
-            btnPagar.Size = new Size(171, 74);
+            btnPagar.Size = new Size(183, 74);
+            btnPagar.StateCommon.Content.ShortText.Font = new Font("Californian FB", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnPagar.TabIndex = 1;
             btnPagar.Values.DropDownArrowColor = Color.Empty;
             btnPagar.Values.Text = "Proceder al pago";
@@ -197,7 +198,8 @@
             // 
             btnAgregarProducto.Location = new Point(0, 3);
             btnAgregarProducto.Name = "btnAgregarProducto";
-            btnAgregarProducto.Size = new Size(157, 74);
+            btnAgregarProducto.Size = new Size(176, 74);
+            btnAgregarProducto.StateCommon.Content.ShortText.Font = new Font("Californian FB", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnAgregarProducto.TabIndex = 0;
             btnAgregarProducto.Values.DropDownArrowColor = Color.Empty;
             btnAgregarProducto.Values.Text = "Agregar Producto";
@@ -210,7 +212,7 @@
             pnVentaSuperior.Dock = DockStyle.Top;
             pnVentaSuperior.Location = new Point(0, 0);
             pnVentaSuperior.Name = "pnVentaSuperior";
-            pnVentaSuperior.Size = new Size(566, 60);
+            pnVentaSuperior.Size = new Size(615, 60);
             pnVentaSuperior.TabIndex = 1;
             // 
             // txtCantidad
@@ -241,7 +243,7 @@
             pnDataProductos.Dock = DockStyle.Fill;
             pnDataProductos.Location = new Point(0, 60);
             pnDataProductos.Name = "pnDataProductos";
-            pnDataProductos.Size = new Size(566, 463);
+            pnDataProductos.Size = new Size(615, 763);
             pnDataProductos.TabIndex = 2;
             // 
             // dtgProductos
@@ -257,7 +259,7 @@
             dtgProductos.Name = "dtgProductos";
             dtgProductos.ReadOnly = true;
             dtgProductos.RowHeadersWidth = 51;
-            dtgProductos.Size = new Size(566, 460);
+            dtgProductos.Size = new Size(585, 710);
             dtgProductos.TabIndex = 0;
             // 
             // UC_Ventas
@@ -268,7 +270,7 @@
             Controls.Add(pnVentaSuperior);
             Controls.Add(pnVistaProductos);
             Name = "UC_Ventas";
-            Size = new Size(900, 523);
+            Size = new Size(1000, 823);
             ((System.ComponentModel.ISupportInitialize)pnVistaProductos).EndInit();
             pnVistaProductos.ResumeLayout(false);
             pnVistaProductos.PerformLayout();

@@ -20,8 +20,37 @@ namespace CHICKEN_FINGERS_APP.Visuals
         private void btnIniciarSesion_Click(object sender, EventArgs e)
         {
             this.Hide();
-            MainForm main = new MainForm(); 
+            MainForm main = new MainForm();
             main.Show();
+        }
+
+        private void iconPictureBox2_Click(object sender, EventArgs e)
+        {
+            if (pbEye.IconChar == FontAwesome.Sharp.IconChar.Eye)
+            {
+                pbEye.IconChar = FontAwesome.Sharp.IconChar.EyeSlash;
+                txtContraseña.PasswordChar = '*';
+            }
+            else
+            {
+                txtContraseña.PasswordChar = '\0';
+                pbEye.IconChar = FontAwesome.Sharp.IconChar.Eye;
+            }
+
+
+
+
+        }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            DialogResult resultado = MessageBox.Show("¿Estás seguro de que deseas salir?", "Confirmar salida", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
+            
+            if (resultado == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
         }
     }
 }
