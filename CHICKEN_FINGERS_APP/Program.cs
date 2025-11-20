@@ -1,3 +1,5 @@
+using CHICKEN_FINGERS_APP.Visuals;
+
 namespace CHICKEN_FINGERS_APP
 {
     internal static class Program
@@ -11,7 +13,7 @@ namespace CHICKEN_FINGERS_APP
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form1());
+            Application.Run(new Iniciar());
         }
     }
 }
