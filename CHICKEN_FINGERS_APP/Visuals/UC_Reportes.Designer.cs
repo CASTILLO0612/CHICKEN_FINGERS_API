@@ -38,7 +38,6 @@
             txtReporte = new TextBox();
             kryptonPanel2 = new Krypton.Toolkit.KryptonPanel();
             kryptonPanel3 = new Krypton.Toolkit.KryptonPanel();
-            fpEstadistico = new ScottPlot.WinForms.FormsPlot();
             kryptonDataGridView1 = new Krypton.Toolkit.KryptonDataGridView();
             ((System.ComponentModel.ISupportInitialize)kryptonPanel1).BeginInit();
             kryptonPanel1.SuspendLayout();
@@ -138,7 +137,6 @@
             // kryptonPanel2
             // 
             kryptonPanel2.Controls.Add(kryptonPanel3);
-            kryptonPanel2.Controls.Add(fpEstadistico);
             kryptonPanel2.Controls.Add(kryptonDataGridView1);
             kryptonPanel2.Dock = DockStyle.Fill;
             kryptonPanel2.Location = new Point(0, 127);
@@ -154,26 +152,21 @@
             kryptonPanel3.Size = new Size(12, 696);
             kryptonPanel3.TabIndex = 2;
             // 
-            // fpEstadistico
-            // 
-            fpEstadistico.DisplayScale = 1.25F;
-            fpEstadistico.Location = new Point(51, 238);
-            fpEstadistico.Name = "fpEstadistico";
-            fpEstadistico.Size = new Size(820, 446);
-            fpEstadistico.TabIndex = 1;
-            // 
             // kryptonDataGridView1
             // 
             kryptonDataGridView1.AllowUserToAddRows = false;
             kryptonDataGridView1.AllowUserToDeleteRows = false;
             kryptonDataGridView1.BorderStyle = BorderStyle.None;
             kryptonDataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            kryptonDataGridView1.Location = new Point(23, 23);
+            kryptonDataGridView1.Location = new Point(70, 23);
             kryptonDataGridView1.Name = "kryptonDataGridView1";
             kryptonDataGridView1.ReadOnly = true;
             kryptonDataGridView1.RowHeadersWidth = 51;
             kryptonDataGridView1.Size = new Size(848, 209);
             kryptonDataGridView1.TabIndex = 0;
+            // 
+            // fpEstadistico
+            // 
             // 
             // UC_Reportes
             // 
@@ -206,7 +199,6 @@
         private Krypton.Toolkit.KryptonButton btnHacerReporte;
         private Krypton.Toolkit.KryptonButton btnExcel;
         private Krypton.Toolkit.KryptonDataGridView kryptonDataGridView1;
-        private ScottPlot.WinForms.FormsPlot fpEstadistico;
         private Krypton.Toolkit.KryptonPanel kryptonPanel3;
     }
 }
