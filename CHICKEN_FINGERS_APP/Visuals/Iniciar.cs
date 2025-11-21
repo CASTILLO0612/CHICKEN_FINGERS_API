@@ -63,9 +63,6 @@ namespace CHICKEN_FINGERS_APP.Visuals
                 pbEye.IconChar = FontAwesome.Sharp.IconChar.Eye;
             }
 
-
-
-
         }
 
         private void btnSalir_Click(object sender, EventArgs e)
@@ -79,7 +76,7 @@ namespace CHICKEN_FINGERS_APP.Visuals
             }
         }
 
-        private void btnIniciarSesion_Click(object sender, EventArgs e)
+        private async void btnIniciarSesion_Click(object sender, EventArgs e)
         {
             LoginAsync();
         }
