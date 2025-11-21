@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9LwLSDqXwa0=",
+  "dgSpecHash": "XbrJAJT3a+4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
+  "projectFilePath": "C:\\Users\\LEGION\\Downloads\\ProyectoFusion\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LEGION\\.nuget\\packages\\closedxml\\0.105.0\\closedxml.0.105.0.nupkg.sha512",
     "C:\\Users\\LEGION\\.nuget\\packages\\closedxml.parser\\2.0.0\\closedxml.parser.2.0.0.nupkg.sha512",
@@ -36,9 +36,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'OpenTK 3.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
-      "projectPath": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
+      "projectPath": "C:\\Users\\LEGION\\Downloads\\ProyectoFusion\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
+      "filePath": "C:\\Users\\LEGION\\Downloads\\ProyectoFusion\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
       "libraryId": "OpenTK",
       "targetGraphs": [
         "net8.0-windows7.0"
@@ -48,9 +48,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'OpenTK.GLControl 3.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
-      "projectPath": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
+      "projectPath": "C:\\Users\\LEGION\\Downloads\\ProyectoFusion\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
+      "filePath": "C:\\Users\\LEGION\\Downloads\\ProyectoFusion\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
       "libraryId": "OpenTK.GLControl",
       "targetGraphs": [
         "net8.0-windows7.0"
@@ -60,9 +60,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'SkiaSharp.Views.WindowsForms 3.119.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
-      "projectPath": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
+      "projectPath": "C:\\Users\\LEGION\\Downloads\\ProyectoFusion\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
+      "filePath": "C:\\Users\\LEGION\\Downloads\\ProyectoFusion\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
       "libraryId": "SkiaSharp.Views.WindowsForms",
       "targetGraphs": [
         "net8.0-windows7.0"

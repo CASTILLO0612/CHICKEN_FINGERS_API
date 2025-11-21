@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F4aIlj3t8qk=",
+  "dgSpecHash": "gFpe/0r5Tpo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj",
+  "projectFilePath": "C:\\Users\\LEGION\\Downloads\\ProyectoFusion\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS\\CHICKEN_FINGERS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LEGION\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\LEGION\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
