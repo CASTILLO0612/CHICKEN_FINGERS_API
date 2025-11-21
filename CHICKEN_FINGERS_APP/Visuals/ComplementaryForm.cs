@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CHICKEN_FINGERS_APP.Controllers;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,6 +14,7 @@ namespace CHICKEN_FINGERS_APP.Visuals
 {
     public partial class ComplementaryForm : Form
     {
+         ApiClient _apiClient;
         public ComplementaryForm()
         {
             InitializeComponent();
@@ -45,7 +47,7 @@ namespace CHICKEN_FINGERS_APP.Visuals
 
         private void btnClienteExiste_Click(object sender, EventArgs e)
         {
-            UC_ClienteExiste clienteExiste = new UC_ClienteExiste();
+            UC_ClienteExiste clienteExiste = new UC_ClienteExiste(_apiClient);
             CargarUserControl(clienteExiste);
         }
 

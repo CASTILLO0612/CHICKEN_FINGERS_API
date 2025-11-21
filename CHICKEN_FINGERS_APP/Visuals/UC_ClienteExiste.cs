@@ -1,4 +1,6 @@
-﻿using System;
+﻿using CHICKEN_FINGERS.Dto;
+using CHICKEN_FINGERS_APP.Controllers;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,9 +14,12 @@ namespace CHICKEN_FINGERS_APP.Visuals
 {
     public partial class UC_ClienteExiste : UserControl
     {
-        public UC_ClienteExiste()
+        private readonly ApiClient _apiClient;
+        public UC_ClienteExiste(ApiClient apiClient)
         {
             InitializeComponent();
+            _apiClient = apiClient;
+            CargarDataAsync();
         }
 
         private void btnSeleccionarCliente_Click(object sender, EventArgs e)
@@ -22,6 +27,26 @@ namespace CHICKEN_FINGERS_APP.Visuals
             this.Hide();
             ComplementaryForm form = new ComplementaryForm();
             form.Close();
+
+        }
+
+        private async void txtBuscar_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private async void btn_BuscarCliente_Click(object sender, EventArgs e)
+        {
+            var cliente = await _apiClient.Clientes.GetByIdAsync(Convert.ToInt32(TxtId.Text));
+            dtgClientes.AutoGenerateColumns = true;
+            dtgClientes.DataSource = new List<ClienteDto> { cliente };
+        }
+
+        private async Task CargarDataAsync() 
+        {
+            var clientes = await _apiClient.Clientes.GetAllAsync();
+            dtgClientes.AutoGenerateColumns = true;
+            dtgClientes.DataSource = clientes.ToList();
         }
     }
 }

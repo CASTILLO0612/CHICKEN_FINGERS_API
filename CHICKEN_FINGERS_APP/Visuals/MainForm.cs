@@ -13,7 +13,7 @@ namespace CHICKEN_FINGERS_APP.Visuals
 {
     public partial class MainForm : Form
     {
-        ApiClient _apiClient;
+        private readonly ApiClient _apiClient;
         public MainForm(ApiClient apiClient)
         {
             InitializeComponent();
