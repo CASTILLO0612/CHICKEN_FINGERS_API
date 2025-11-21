@@ -15,7 +15,7 @@ namespace CHICKEN_FINGERS_APP.Visuals
     public partial class Iniciar : Form
     {
         private readonly ApiClient _apiClient;
-        public Iniciar()
+        public Iniciar(ApiClient apiClient)
         {
             InitializeComponent();
             _apiClient = new ApiClient();
@@ -63,6 +63,9 @@ namespace CHICKEN_FINGERS_APP.Visuals
                 pbEye.IconChar = FontAwesome.Sharp.IconChar.Eye;
             }
 
+
+
+
         }
 
         private void btnSalir_Click(object sender, EventArgs e)
@@ -76,7 +79,7 @@ namespace CHICKEN_FINGERS_APP.Visuals
             }
         }
 
-        private async void btnIniciarSesion_Click(object sender, EventArgs e)
+        private void btnIniciarSesion_Click(object sender, EventArgs e)
         {
             LoginAsync();
         }

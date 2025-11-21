@@ -37,15 +37,15 @@
             txtInicio = new TextBox();
             txtReporte = new TextBox();
             kryptonPanel2 = new Krypton.Toolkit.KryptonPanel();
+            fpEstadisticoC = new ScottPlot.FormsPlot();
             kryptonPanel3 = new Krypton.Toolkit.KryptonPanel();
-            fpEstadistico = new ScottPlot.WinForms.FormsPlot();
-            kryptonDataGridView1 = new Krypton.Toolkit.KryptonDataGridView();
+            dgvReporte = new Krypton.Toolkit.KryptonDataGridView();
             ((System.ComponentModel.ISupportInitialize)kryptonPanel1).BeginInit();
             kryptonPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)kryptonPanel2).BeginInit();
             kryptonPanel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)kryptonPanel3).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)kryptonDataGridView1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)dgvReporte).BeginInit();
             SuspendLayout();
             // 
             // kryptonPanel1
@@ -72,6 +72,7 @@
             btnExcel.TabIndex = 9;
             btnExcel.Values.DropDownArrowColor = Color.Empty;
             btnExcel.Values.Text = "Descargar excel";
+            btnExcel.Click += btnExcel_Click;
             // 
             // btnHacerReporte
             // 
@@ -82,6 +83,7 @@
             btnHacerReporte.TabIndex = 8;
             btnHacerReporte.Values.DropDownArrowColor = Color.Empty;
             btnHacerReporte.Values.Text = "Hacer reporte";
+            btnHacerReporte.Click += btnHacerReporte_Click;
             // 
             // dtpFin
             // 
@@ -137,14 +139,22 @@
             // 
             // kryptonPanel2
             // 
+            kryptonPanel2.Controls.Add(fpEstadisticoC);
             kryptonPanel2.Controls.Add(kryptonPanel3);
-            kryptonPanel2.Controls.Add(fpEstadistico);
-            kryptonPanel2.Controls.Add(kryptonDataGridView1);
+            kryptonPanel2.Controls.Add(dgvReporte);
             kryptonPanel2.Dock = DockStyle.Fill;
             kryptonPanel2.Location = new Point(0, 127);
             kryptonPanel2.Name = "kryptonPanel2";
             kryptonPanel2.Size = new Size(1000, 696);
             kryptonPanel2.TabIndex = 1;
+            // 
+            // fpEstadisticoC
+            // 
+            fpEstadisticoC.Location = new Point(119, 243);
+            fpEstadisticoC.Margin = new Padding(5, 4, 5, 4);
+            fpEstadisticoC.Name = "fpEstadisticoC";
+            fpEstadisticoC.Size = new Size(751, 424);
+            fpEstadisticoC.TabIndex = 3;
             // 
             // kryptonPanel3
             // 
@@ -154,26 +164,18 @@
             kryptonPanel3.Size = new Size(12, 696);
             kryptonPanel3.TabIndex = 2;
             // 
-            // fpEstadistico
+            // dgvReporte
             // 
-            fpEstadistico.DisplayScale = 1.25F;
-            fpEstadistico.Location = new Point(51, 238);
-            fpEstadistico.Name = "fpEstadistico";
-            fpEstadistico.Size = new Size(820, 446);
-            fpEstadistico.TabIndex = 1;
-            // 
-            // kryptonDataGridView1
-            // 
-            kryptonDataGridView1.AllowUserToAddRows = false;
-            kryptonDataGridView1.AllowUserToDeleteRows = false;
-            kryptonDataGridView1.BorderStyle = BorderStyle.None;
-            kryptonDataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            kryptonDataGridView1.Location = new Point(23, 23);
-            kryptonDataGridView1.Name = "kryptonDataGridView1";
-            kryptonDataGridView1.ReadOnly = true;
-            kryptonDataGridView1.RowHeadersWidth = 51;
-            kryptonDataGridView1.Size = new Size(848, 209);
-            kryptonDataGridView1.TabIndex = 0;
+            dgvReporte.AllowUserToAddRows = false;
+            dgvReporte.AllowUserToDeleteRows = false;
+            dgvReporte.BorderStyle = BorderStyle.None;
+            dgvReporte.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dgvReporte.Location = new Point(74, 11);
+            dgvReporte.Name = "dgvReporte";
+            dgvReporte.ReadOnly = true;
+            dgvReporte.RowHeadersWidth = 51;
+            dgvReporte.Size = new Size(848, 209);
+            dgvReporte.TabIndex = 0;
             // 
             // UC_Reportes
             // 
@@ -190,7 +192,7 @@
             ((System.ComponentModel.ISupportInitialize)kryptonPanel2).EndInit();
             kryptonPanel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)kryptonPanel3).EndInit();
-            ((System.ComponentModel.ISupportInitialize)kryptonDataGridView1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)dgvReporte).EndInit();
             ResumeLayout(false);
         }
 
@@ -205,8 +207,8 @@
         private TextBox txtInicio;
         private Krypton.Toolkit.KryptonButton btnHacerReporte;
         private Krypton.Toolkit.KryptonButton btnExcel;
-        private Krypton.Toolkit.KryptonDataGridView kryptonDataGridView1;
-        private ScottPlot.WinForms.FormsPlot fpEstadistico;
+        private Krypton.Toolkit.KryptonDataGridView dgvReporte;
         private Krypton.Toolkit.KryptonPanel kryptonPanel3;
+        private ScottPlot.FormsPlot fpEstadisticoC;
     }
 }

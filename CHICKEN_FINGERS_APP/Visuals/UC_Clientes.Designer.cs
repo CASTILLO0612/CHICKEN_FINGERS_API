@@ -82,7 +82,6 @@
             dtgClientes.Location = new Point(4, 61);
             dtgClientes.Margin = new Padding(4);
             dtgClientes.Name = "dtgClientes";
-            dtgClientes.ReadOnly = true;
             dtgClientes.RowHeadersWidth = 51;
             dtgClientes.Size = new Size(646, 882);
             dtgClientes.TabIndex = 0;
@@ -120,7 +119,6 @@
             btnAgregarCliente.TabIndex = 17;
             btnAgregarCliente.Values.DropDownArrowColor = Color.Empty;
             btnAgregarCliente.Values.Text = "Agregar Cliente";
-            btnAgregarCliente.Click += btnAgregarCliente_Click;
             // 
             // btnEditarCliente
             // 
@@ -132,7 +130,6 @@
             btnEditarCliente.TabIndex = 16;
             btnEditarCliente.Values.DropDownArrowColor = Color.Empty;
             btnEditarCliente.Values.Text = "Editar cliente";
-            btnEditarCliente.Click += btnEditarCliente_Click;
             // 
             // btnEliminarCliente
             // 
@@ -144,7 +141,6 @@
             btnEliminarCliente.TabIndex = 15;
             btnEliminarCliente.Values.DropDownArrowColor = Color.Empty;
             btnEliminarCliente.Values.Text = "Eliminar cliente";
-            btnEliminarCliente.Click += btnEliminarCliente_Click;
             // 
             // txtId
             // 

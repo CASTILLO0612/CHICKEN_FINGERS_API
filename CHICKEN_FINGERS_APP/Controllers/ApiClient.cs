@@ -17,6 +17,7 @@ namespace CHICKEN_FINGERS_APP.Controllers
 
         public IRepository<ClienteDto> Clientes { get; }
         public IUserRepository LoginUsers { get; } 
+        public IReporteRepository Reportes { get; }
 
         public ApiClient()
         { 
@@ -27,6 +28,7 @@ namespace CHICKEN_FINGERS_APP.Controllers
             };
             Clientes = new Repository<ClienteDto>(_httpClient, "Clientes");
             LoginUsers = new UserRepository(_httpClient, "Auth/login");
+            Reportes = new ReporteRepository(_httpClient, "Reportes/ClientesJson");
         }
 
         internal void SetAuthToken(string token)

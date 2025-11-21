@@ -88,7 +88,6 @@ namespace CHICKEN_FINGERS.DAO
             cmd.Parameters.AddWithValue("@Direccion", (object?)c.Direccion ?? DBNull.Value);
             cmd.Parameters.AddWithValue("@Telefono", (object?)c.Telefono ?? DBNull.Value);
             cmd.Parameters.AddWithValue("@Cedula", c.Cedula);
-            cmd.Parameters.AddWithValue("@Estado", c.Estado);
 
             // Si tu stored procedure devuelve el ID nuevo, usa ExecuteScalarAsync
             var result = await cmd.ExecuteScalarAsync();
@@ -111,12 +110,11 @@ namespace CHICKEN_FINGERS.DAO
 
             cmd.Parameters.AddWithValue("@Id_cliente", c.IdCliente);
             cmd.Parameters.AddWithValue("@Primer_nombre", c.PNombre);
-            cmd.Parameters.AddWithValue("@Segundo_nombre", (object?)c.SNombre ?? DBNull.Value);
+            cmd.Parameters.AddWithValue("@Segund_nombre", (object?)c.SNombre ?? DBNull.Value);
             cmd.Parameters.AddWithValue("@Primer_apellido", c.PApellido);
             cmd.Parameters.AddWithValue("@Segundo_apellido", (object?)c.SApellido ?? DBNull.Value);
             cmd.Parameters.AddWithValue("@direccion", (object?)c.Direccion ?? DBNull.Value);
             cmd.Parameters.AddWithValue("@telefono", (object?)c.Telefono ?? DBNull.Value);
-            cmd.Parameters.AddWithValue("@Estado", c.Estado);
             cmd.Parameters.AddWithValue("@cedula", c.Cedula);
 
             var result = await cmd.ExecuteScalarAsync();

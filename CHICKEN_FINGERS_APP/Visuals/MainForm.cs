@@ -77,7 +77,7 @@ namespace CHICKEN_FINGERS_APP.Visuals
 
         private void btnReportes_Click(object sender, EventArgs e)
         {
-            UC_Reportes reportes = new UC_Reportes();
+            UC_Reportes reportes = new UC_Reportes(_apiClient);
             CargarUserControl(reportes);
         }
     }
