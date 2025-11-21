@@ -1,0 +1,6 @@
+@CHICKEN_FINGERS_HostAddress = http://localhost:5080
+
+GET {{CHICKEN_FINGERS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
