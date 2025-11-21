@@ -23,7 +23,7 @@ namespace CHICKEN_FINGERS.DAO
             {
                 var c = new Cliente
                 {
-                    IdCliente = Convert.ToInt32(reader["Id_cliente"]),
+                    IdCliente = Convert.ToInt32(reader["Id_Cliente"]),
                     PNombre = reader["Primer_Nombre"].ToString() ?? "",
                     SNombre = reader["Segundo_Nombre"].ToString() ?? "",
                     PApellido = reader["Primer_Apellido"].ToString() ?? "",

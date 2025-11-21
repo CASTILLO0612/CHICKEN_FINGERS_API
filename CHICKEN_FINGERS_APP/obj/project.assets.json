@@ -1156,23 +1156,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuar\\.nuget\\packages\\": {},
+    "C:\\Users\\LEGION\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Yo, Dari\\Universidad Nacional de Ingeniería\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
+      "projectUniqueName": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
       "projectName": "CHICKEN_FINGERS_APP",
-      "projectPath": "C:\\Yo, Dari\\Universidad Nacional de Ingeniería\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
-      "packagesPath": "C:\\Users\\Usuar\\.nuget\\packages\\",
-      "outputPath": "C:\\Yo, Dari\\Universidad Nacional de Ingeniería\\IV Semestre\\Base de Datos I\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\obj\\",
+      "projectPath": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\CHICKEN_FINGERS_APP.csproj",
+      "packagesPath": "C:\\Users\\LEGION\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LEGION\\Documents\\UNI\\IV Semestre\\Base de Datos I\\Proyecto\\GitProyecto\\CHICKEN_FINGERS_API\\CHICKEN_FINGERS_APP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Usuar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LEGION\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1181,6 +1181,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1245,7 +1246,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
@@ -1254,7 +1255,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "El paquete \"OpenTK 3.1.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "message": "Package 'OpenTK 3.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
       "libraryId": "OpenTK",
       "targetGraphs": [
         "net8.0-windows7.0"
@@ -1264,7 +1265,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "El paquete \"OpenTK.GLControl 3.1.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "message": "Package 'OpenTK.GLControl 3.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
       "libraryId": "OpenTK.GLControl",
       "targetGraphs": [
         "net8.0-windows7.0"
@@ -1274,7 +1275,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "El paquete \"SkiaSharp.Views.WindowsForms 3.119.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "message": "Package 'SkiaSharp.Views.WindowsForms 3.119.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
       "libraryId": "SkiaSharp.Views.WindowsForms",
       "targetGraphs": [
         "net8.0-windows7.0"

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CHICKEN_FINGERS_APP.Controllers;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,11 +13,11 @@ namespace CHICKEN_FINGERS_APP.Visuals
 {
     public partial class MainForm : Form
     {
-        public MainForm()
+        ApiClient _apiClient;
+        public MainForm(ApiClient apiClient)
         {
             InitializeComponent();
-
-
+            _apiClient = apiClient;
         }
 
         private void btnVentas_Click(object sender, EventArgs e)
@@ -52,7 +53,7 @@ namespace CHICKEN_FINGERS_APP.Visuals
 
         private void btnClientes_Click(object sender, EventArgs e)
         {
-            UC_Clientes clientes = new UC_Clientes();
+            UC_Clientes clientes = new UC_Clientes(_apiClient);
             CargarUserControl(clientes);
         }
 
